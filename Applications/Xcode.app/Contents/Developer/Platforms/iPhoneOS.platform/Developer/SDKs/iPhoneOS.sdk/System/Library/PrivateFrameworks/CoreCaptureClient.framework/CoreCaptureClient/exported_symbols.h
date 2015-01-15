@@ -1,0 +1,21 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/CoreCaptureClient.framework/CoreCaptureClient (for architecture armv7):
+_CoreCaptureClientCapture
+_CoreCaptureClientCreate
+_CoreCaptureClientGetTypeID
+_CoreCaptureClientStart
+_CoreCaptureClientStop
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/CoreCaptureClient.framework/CoreCaptureClient (for architecture armv7s):
+_CoreCaptureClientCapture
+_CoreCaptureClientCreate
+_CoreCaptureClientGetTypeID
+_CoreCaptureClientStart
+_CoreCaptureClientStop
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/CoreCaptureClient.framework/CoreCaptureClient (for architecture arm64):
+_CoreCaptureClientCapture
+_CoreCaptureClientCreate
+_CoreCaptureClientGetTypeID
+_CoreCaptureClientStart
+_CoreCaptureClientStop

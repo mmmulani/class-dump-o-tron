@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_DAIMAPNotesAccount
+_OBJC_METACLASS_$_DAIMAPNotesAccount

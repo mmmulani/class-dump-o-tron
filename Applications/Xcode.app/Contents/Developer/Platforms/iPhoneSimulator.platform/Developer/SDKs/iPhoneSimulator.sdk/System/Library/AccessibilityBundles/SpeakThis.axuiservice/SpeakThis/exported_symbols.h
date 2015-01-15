@@ -1,0 +1,10 @@
+_AXSpeakBundle
+_AXSpeakThisLocString
+_OBJC_CLASS_$_AXSpeakOverlayControlBar
+_OBJC_CLASS_$_AXSpeakOverlayViewController
+_OBJC_CLASS_$_AXSpeakingRange
+_OBJC_CLASS_$_SpeakThisUIServer
+_OBJC_METACLASS_$_AXSpeakOverlayControlBar
+_OBJC_METACLASS_$_AXSpeakOverlayViewController
+_OBJC_METACLASS_$_AXSpeakingRange
+_OBJC_METACLASS_$_SpeakThisUIServer

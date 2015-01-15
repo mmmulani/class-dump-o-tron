@@ -1,0 +1,45 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/system/libcopyfile.dylib (for architecture armv7):
+___copyfileVersionNumber
+___copyfileVersionString
+_copyfile
+_copyfile_state_alloc
+_copyfile_state_free
+_copyfile_state_get
+_copyfile_state_set
+_fcopyfile
+_xattr_flags_from_name
+_xattr_intent_with_flags
+_xattr_name_with_flags
+_xattr_name_without_flags
+_xattr_preserve_for_intent
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/system/libcopyfile.dylib (for architecture armv7s):
+___copyfileVersionNumber
+___copyfileVersionString
+_copyfile
+_copyfile_state_alloc
+_copyfile_state_free
+_copyfile_state_get
+_copyfile_state_set
+_fcopyfile
+_xattr_flags_from_name
+_xattr_intent_with_flags
+_xattr_name_with_flags
+_xattr_name_without_flags
+_xattr_preserve_for_intent
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/system/libcopyfile.dylib (for architecture arm64):
+___copyfileVersionNumber
+___copyfileVersionString
+_copyfile
+_copyfile_state_alloc
+_copyfile_state_free
+_copyfile_state_get
+_copyfile_state_set
+_fcopyfile
+_xattr_flags_from_name
+_xattr_intent_with_flags
+_xattr_name_with_flags
+_xattr_name_without_flags
+_xattr_preserve_for_intent

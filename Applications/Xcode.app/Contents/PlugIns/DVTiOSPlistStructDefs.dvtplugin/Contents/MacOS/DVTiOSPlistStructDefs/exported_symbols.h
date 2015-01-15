@@ -1,0 +1,4 @@
+_DVTiOSPlistStructDefsVersionNumber
+_DVTiOSPlistStructDefsVersionString
+_OBJC_CLASS_$_DVTiOSPlistStructDefsStub
+_OBJC_METACLASS_$_DVTiOSPlistStructDefsStub

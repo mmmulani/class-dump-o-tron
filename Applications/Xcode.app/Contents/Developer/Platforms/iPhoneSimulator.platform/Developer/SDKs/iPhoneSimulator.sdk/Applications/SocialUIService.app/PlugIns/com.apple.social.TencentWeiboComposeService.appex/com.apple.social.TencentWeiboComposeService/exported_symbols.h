@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_SLTencentWeiboComposeViewController
+_OBJC_METACLASS_$_SLTencentWeiboComposeViewController
+__mh_execute_header
+_main

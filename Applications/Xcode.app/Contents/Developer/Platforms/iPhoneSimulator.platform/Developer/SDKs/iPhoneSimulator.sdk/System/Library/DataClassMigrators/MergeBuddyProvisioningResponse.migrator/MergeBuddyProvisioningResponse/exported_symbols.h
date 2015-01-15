@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_MergeBuddyProvisioningResponse
+_OBJC_METACLASS_$_MergeBuddyProvisioningResponse

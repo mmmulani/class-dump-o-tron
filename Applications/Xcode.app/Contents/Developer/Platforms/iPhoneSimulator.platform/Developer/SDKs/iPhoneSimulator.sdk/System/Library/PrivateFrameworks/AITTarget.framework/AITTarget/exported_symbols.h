@@ -1,0 +1,11 @@
+_AITFireProbe
+_AITFireProbeWithBlock
+_AITFireProbeWithCFArgumentsAndKeys
+_AITProbeBarrier
+_AITProbeIsEnabled
+_OBJC_CLASS_$_AITTarget
+_OBJC_CLASS_$_AITTargetObserverRecord
+_OBJC_CLASS_$_AITXPCConnection
+_OBJC_METACLASS_$_AITTarget
+_OBJC_METACLASS_$_AITTargetObserverRecord
+_OBJC_METACLASS_$_AITXPCConnection

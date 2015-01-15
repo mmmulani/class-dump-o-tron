@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_ACDefaultAccessPlugin
+_OBJC_METACLASS_$_ACDefaultAccessPlugin

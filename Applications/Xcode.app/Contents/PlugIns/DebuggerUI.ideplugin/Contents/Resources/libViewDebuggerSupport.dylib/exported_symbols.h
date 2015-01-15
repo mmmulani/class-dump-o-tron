@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_DBGViewDebuggerSupport_OSX
+_OBJC_METACLASS_$_DBGViewDebuggerSupport_OSX
+_libViewDebuggerSupportVersionNumber
+_libViewDebuggerSupportVersionString

@@ -1,0 +1,10 @@
+_OBJC_CLASS_$_XRMobileDevice
+_OBJC_CLASS_$_XRMobileDeviceLocator
+_OBJC_CLASS_$_XRSimulatorDevice
+_OBJC_CLASS_$_XRSimulatorDeviceLocator
+_OBJC_CLASS_$_XRWirelessDevice
+_OBJC_METACLASS_$_XRMobileDevice
+_OBJC_METACLASS_$_XRMobileDeviceLocator
+_OBJC_METACLASS_$_XRSimulatorDevice
+_OBJC_METACLASS_$_XRSimulatorDeviceLocator
+_OBJC_METACLASS_$_XRWirelessDevice

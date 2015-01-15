@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_PhotosAccountNotificationPlugin
+_OBJC_METACLASS_$_PhotosAccountNotificationPlugin

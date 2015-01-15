@@ -1,0 +1,6 @@
+_OBJC_CLASS_$_AXTrustMeAppGlue
+_OBJC_CLASS_$_TrustMeApplicationAccessibility
+_OBJC_CLASS_$___TrustMeApplicationAccessibility_super
+_OBJC_METACLASS_$_AXTrustMeAppGlue
+_OBJC_METACLASS_$_TrustMeApplicationAccessibility
+_OBJC_METACLASS_$___TrustMeApplicationAccessibility_super

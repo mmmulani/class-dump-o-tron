@@ -1,0 +1,3 @@
+_xpc_support_evaluate_connection
+_xpc_support_relax_roleaccount_policy
+_xpc_support_set_log

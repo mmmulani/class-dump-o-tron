@@ -1,0 +1,4 @@
+__mh_execute_header
+_com_apple_DVTInstrumentsServiceVersionNumber
+_com_apple_DVTInstrumentsServiceVersionString
+_main

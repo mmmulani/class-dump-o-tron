@@ -1,0 +1,14 @@
+_SMILPieceAudioTag
+_SMILPieceContentLocationKey
+_SMILPieceDataKey
+_SMILPieceDurationKey
+_SMILPieceFilenameKey
+_SMILPieceImageTag
+_SMILPieceRefTag
+_SMILPieceTagNameKey
+_SMILPieceTextTag
+_SMILPieceTextTypeKey
+_SMILPieceTypeKey
+_SMILPieceVideoTag
+_SMSCopySanitizedContentID
+_SMSCopySanitizedContentLocation

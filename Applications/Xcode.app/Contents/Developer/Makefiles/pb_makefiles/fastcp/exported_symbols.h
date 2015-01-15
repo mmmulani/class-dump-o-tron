@@ -1,0 +1,13 @@
+_NXCreateHashTable
+_NXFreeHashTable
+_NXHashGet
+_NXHashInsert
+_NXHashRemove
+_NXInitHashState
+_NXNextHashState
+_NXNoEffectFree
+_NXPtrIsEqual
+__StrHash
+__StrIsEqual
+__mh_execute_header
+_main

@@ -1,0 +1,7 @@
+_ASAppStoreUIBundle
+_OBJC_CLASS_$_ASClientController
+_OBJC_CLASS_$_ASPurchaseBatch
+_OBJC_CLASS_$_ASViewControllerFactory
+_OBJC_METACLASS_$_ASClientController
+_OBJC_METACLASS_$_ASPurchaseBatch
+_OBJC_METACLASS_$_ASViewControllerFactory

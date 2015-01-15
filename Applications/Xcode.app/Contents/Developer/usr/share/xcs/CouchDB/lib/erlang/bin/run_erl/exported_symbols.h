@@ -1,0 +1,8 @@
+__mh_execute_header
+_find_str
+_main
+_sn_printf
+_strn_cat
+_strn_catf
+_strn_cpy
+_vsn_printf

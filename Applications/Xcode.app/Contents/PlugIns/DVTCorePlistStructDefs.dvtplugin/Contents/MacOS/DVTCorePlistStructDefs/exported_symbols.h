@@ -1,0 +1,4 @@
+_DVTCorePlistStructDefsVersionNumber
+_DVTCorePlistStructDefsVersionString
+_OBJC_CLASS_$_DVTCorePlistStructDefsStub
+_OBJC_METACLASS_$_DVTCorePlistStructDefsStub

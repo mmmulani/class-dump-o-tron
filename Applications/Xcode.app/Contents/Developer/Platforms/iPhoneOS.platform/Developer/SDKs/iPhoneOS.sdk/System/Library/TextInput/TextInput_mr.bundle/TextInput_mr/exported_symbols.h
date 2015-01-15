@@ -1,0 +1,18 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/TextInput/TextInput_mr.bundle/TextInput_mr (for architecture armv7):
+_OBJC_CLASS_$_TIKeyboardInputManager_mr
+_OBJC_METACLASS_$_TIKeyboardInputManager_mr
+__ZNK17TIInputManager_mr21create_quality_filterERKNSt3__16vectorIN2KB9CandidateENS0_9allocatorIS3_EEEE
+__ZTV17TIInputManager_mr
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/TextInput/TextInput_mr.bundle/TextInput_mr (for architecture armv7s):
+_OBJC_CLASS_$_TIKeyboardInputManager_mr
+_OBJC_METACLASS_$_TIKeyboardInputManager_mr
+__ZNK17TIInputManager_mr21create_quality_filterERKNSt3__16vectorIN2KB9CandidateENS0_9allocatorIS3_EEEE
+__ZTV17TIInputManager_mr
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/TextInput/TextInput_mr.bundle/TextInput_mr (for architecture arm64):
+_OBJC_CLASS_$_TIKeyboardInputManager_mr
+_OBJC_METACLASS_$_TIKeyboardInputManager_mr
+__ZNK17TIInputManager_mr21create_quality_filterERKNSt3__16vectorIN2KB9CandidateENS0_9allocatorIS3_EEEE
+__ZTV17TIInputManager_mr

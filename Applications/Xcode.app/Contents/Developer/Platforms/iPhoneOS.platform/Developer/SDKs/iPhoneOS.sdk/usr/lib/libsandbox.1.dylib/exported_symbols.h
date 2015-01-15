@@ -1,0 +1,42 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/libsandbox.1.dylib (for architecture armv7):
+_SANDBOX_BUILD_ID
+_sandbox_apply
+_sandbox_apply_container
+_sandbox_compile_entitlements
+_sandbox_compile_file
+_sandbox_compile_named
+_sandbox_compile_string
+_sandbox_create_params
+_sandbox_free_params
+_sandbox_free_profile
+_sandbox_set_param
+_sandbox_wake_daemon
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/libsandbox.1.dylib (for architecture armv7s):
+_SANDBOX_BUILD_ID
+_sandbox_apply
+_sandbox_apply_container
+_sandbox_compile_entitlements
+_sandbox_compile_file
+_sandbox_compile_named
+_sandbox_compile_string
+_sandbox_create_params
+_sandbox_free_params
+_sandbox_free_profile
+_sandbox_set_param
+_sandbox_wake_daemon
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/libsandbox.1.dylib (for architecture arm64):
+_SANDBOX_BUILD_ID
+_sandbox_apply
+_sandbox_apply_container
+_sandbox_compile_entitlements
+_sandbox_compile_file
+_sandbox_compile_named
+_sandbox_compile_string
+_sandbox_create_params
+_sandbox_free_params
+_sandbox_free_profile
+_sandbox_set_param
+_sandbox_wake_daemon

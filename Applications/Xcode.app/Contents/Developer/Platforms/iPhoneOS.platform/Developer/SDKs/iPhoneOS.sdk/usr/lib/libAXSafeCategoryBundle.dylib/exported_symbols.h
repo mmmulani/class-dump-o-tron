@@ -1,0 +1,24 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/libAXSafeCategoryBundle.dylib (for architecture armv7):
+_AXSetUIAXReportSenderErrorLoggerFunction
+_AXSetValidationErrorLoggingFunction
+_OBJC_CLASS_$_UIAccessibilitySafeCategory
+_OBJC_METACLASS_$_UIAccessibilitySafeCategory
+_UIAccessibilityInstallSafeCategories
+_UIAccessibilityInstallSafeCategory
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/libAXSafeCategoryBundle.dylib (for architecture armv7s):
+_AXSetUIAXReportSenderErrorLoggerFunction
+_AXSetValidationErrorLoggingFunction
+_OBJC_CLASS_$_UIAccessibilitySafeCategory
+_OBJC_METACLASS_$_UIAccessibilitySafeCategory
+_UIAccessibilityInstallSafeCategories
+_UIAccessibilityInstallSafeCategory
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/libAXSafeCategoryBundle.dylib (for architecture arm64):
+_AXSetUIAXReportSenderErrorLoggerFunction
+_AXSetValidationErrorLoggingFunction
+_OBJC_CLASS_$_UIAccessibilitySafeCategory
+_OBJC_METACLASS_$_UIAccessibilitySafeCategory
+_UIAccessibilityInstallSafeCategories
+_UIAccessibilityInstallSafeCategory

@@ -1,0 +1,2 @@
+_mdworkerVersionNumber
+_mdworkerVersionString

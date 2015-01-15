@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_AAAccountLegacyMigrator
+_OBJC_METACLASS_$_AAAccountLegacyMigrator

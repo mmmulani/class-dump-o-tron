@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_XDZoomTool
+_OBJC_METACLASS_$_XDZoomTool
+__XDZoomToolBundleIdentifier

@@ -1,0 +1,14 @@
+_ICNDeviceCopyInfo
+_ICNDeviceGetApplicationURL
+_ICNDeviceGetType
+_ICNDeviceHasScanButton
+_ICNDeviceLoadModule
+_ICNDeviceRelease
+_ICNInitialize
+_ICNRecognizedDevice
+_ICNRecognizedDeviceAsync
+_ICNRecognizedMassStorageDevice
+_ICNSetDeviceAddedCallback
+_ICNSetDeviceNotificationCallback
+_ICNSetScannerButtonPressedCallback
+_ICNTerminate

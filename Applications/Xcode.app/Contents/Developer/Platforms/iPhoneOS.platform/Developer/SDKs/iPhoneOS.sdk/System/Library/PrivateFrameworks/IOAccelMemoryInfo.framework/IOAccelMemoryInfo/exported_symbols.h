@@ -1,0 +1,39 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/IOAccelMemoryInfo.framework/IOAccelMemoryInfo (for architecture armv7):
+_IOAccelMemoryInfoErrorDomain
+_IOAccelMemoryInfoIOKitDriverKey
+_IOAccelMemoryInfoProcessIDKey
+_OBJC_CLASS_$_IOAccelMemoryInfo
+_OBJC_CLASS_$_IOAccelMemoryMapInfo
+_OBJC_CLASS_$_IOAccelMemoryOpenCLInfo
+_OBJC_CLASS_$_IOAccelMemoryOpenGLInfo
+_OBJC_METACLASS_$_IOAccelMemoryInfo
+_OBJC_METACLASS_$_IOAccelMemoryMapInfo
+_OBJC_METACLASS_$_IOAccelMemoryOpenCLInfo
+_OBJC_METACLASS_$_IOAccelMemoryOpenGLInfo
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/IOAccelMemoryInfo.framework/IOAccelMemoryInfo (for architecture armv7s):
+_IOAccelMemoryInfoErrorDomain
+_IOAccelMemoryInfoIOKitDriverKey
+_IOAccelMemoryInfoProcessIDKey
+_OBJC_CLASS_$_IOAccelMemoryInfo
+_OBJC_CLASS_$_IOAccelMemoryMapInfo
+_OBJC_CLASS_$_IOAccelMemoryOpenCLInfo
+_OBJC_CLASS_$_IOAccelMemoryOpenGLInfo
+_OBJC_METACLASS_$_IOAccelMemoryInfo
+_OBJC_METACLASS_$_IOAccelMemoryMapInfo
+_OBJC_METACLASS_$_IOAccelMemoryOpenCLInfo
+_OBJC_METACLASS_$_IOAccelMemoryOpenGLInfo
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/IOAccelMemoryInfo.framework/IOAccelMemoryInfo (for architecture arm64):
+_IOAccelMemoryInfoErrorDomain
+_IOAccelMemoryInfoIOKitDriverKey
+_IOAccelMemoryInfoProcessIDKey
+_OBJC_CLASS_$_IOAccelMemoryInfo
+_OBJC_CLASS_$_IOAccelMemoryMapInfo
+_OBJC_CLASS_$_IOAccelMemoryOpenCLInfo
+_OBJC_CLASS_$_IOAccelMemoryOpenGLInfo
+_OBJC_METACLASS_$_IOAccelMemoryInfo
+_OBJC_METACLASS_$_IOAccelMemoryMapInfo
+_OBJC_METACLASS_$_IOAccelMemoryOpenCLInfo
+_OBJC_METACLASS_$_IOAccelMemoryOpenGLInfo

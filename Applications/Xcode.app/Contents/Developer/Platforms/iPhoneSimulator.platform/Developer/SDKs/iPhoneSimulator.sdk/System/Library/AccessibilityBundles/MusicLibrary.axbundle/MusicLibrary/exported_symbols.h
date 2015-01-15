@@ -1,0 +1,8 @@
+_OBJC_CLASS_$_AXMusicLibraryGlue
+_OBJC_CLASS_$_MLPhotoAccessibility
+_OBJC_CLASS_$___MLPhotoAccessibility_super
+_OBJC_METACLASS_$_AXMusicLibraryGlue
+_OBJC_METACLASS_$_MLPhotoAccessibility
+_OBJC_METACLASS_$___MLPhotoAccessibility_super
+__Failover
+_accessibilityLocalizedString

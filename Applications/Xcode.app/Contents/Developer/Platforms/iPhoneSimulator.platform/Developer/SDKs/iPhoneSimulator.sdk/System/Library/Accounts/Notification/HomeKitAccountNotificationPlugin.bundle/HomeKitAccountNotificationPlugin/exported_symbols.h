@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_HomeKitAccountNotificationPlugin
+_OBJC_METACLASS_$_HomeKitAccountNotificationPlugin

@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_PassbookAccountChangeObserver
+_OBJC_METACLASS_$_PassbookAccountChangeObserver

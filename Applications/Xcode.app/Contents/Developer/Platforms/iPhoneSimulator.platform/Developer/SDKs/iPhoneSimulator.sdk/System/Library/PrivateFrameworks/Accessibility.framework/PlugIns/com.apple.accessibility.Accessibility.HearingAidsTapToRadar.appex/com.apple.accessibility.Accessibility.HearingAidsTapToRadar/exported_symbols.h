@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_HearingAidsTapToRadarExtension
+_OBJC_METACLASS_$_HearingAidsTapToRadarExtension
+__mh_execute_header

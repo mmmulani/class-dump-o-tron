@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_DAAccountNotifier
+_OBJC_METACLASS_$_DAAccountNotifier

@@ -1,0 +1,13 @@
+_OBJC_CLASS_$_AXZoomListenerContainer
+_OBJC_CLASS_$_ZoomServices
+_OBJC_METACLASS_$_AXZoomListenerContainer
+_OBJC_METACLASS_$_ZoomServices
+_ZOTDeviceRotation
+_ZOTDisplayMainScreenSize
+_ZOTMainScreenRect
+_ZOTMainScreenSize
+_ZOTRotateFromScreen
+_ZOTRotateToScreen
+_ZOTTimeUnset
+_ZOTWindowServerDisplay
+_ZoomServicesPrimaryZoomWindowClientIdentifier

@@ -1,0 +1,42 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/MobileAssetUpdater.framework/MobileAssetUpdater (for architecture armv7):
+_ASErrorCode
+_OBJC_CLASS_$_MobileAssetUpdater
+_OBJC_IVAR_$_MobileAssetUpdater._asset
+_OBJC_IVAR_$_MobileAssetUpdater._assetDownloaded
+_OBJC_IVAR_$_MobileAssetUpdater._assetType
+_OBJC_IVAR_$_MobileAssetUpdater._logger
+_OBJC_IVAR_$_MobileAssetUpdater._overrideFile
+_OBJC_IVAR_$_MobileAssetUpdater._purgeOverrideFile
+_OBJC_IVAR_$_MobileAssetUpdater._query
+_OBJC_IVAR_$_MobileAssetUpdater._requireAssetMetadata
+_OBJC_METACLASS_$_MobileAssetUpdater
+_kMobileAssetUpdaterErrorDomain
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/MobileAssetUpdater.framework/MobileAssetUpdater (for architecture armv7s):
+_ASErrorCode
+_OBJC_CLASS_$_MobileAssetUpdater
+_OBJC_IVAR_$_MobileAssetUpdater._asset
+_OBJC_IVAR_$_MobileAssetUpdater._assetDownloaded
+_OBJC_IVAR_$_MobileAssetUpdater._assetType
+_OBJC_IVAR_$_MobileAssetUpdater._logger
+_OBJC_IVAR_$_MobileAssetUpdater._overrideFile
+_OBJC_IVAR_$_MobileAssetUpdater._purgeOverrideFile
+_OBJC_IVAR_$_MobileAssetUpdater._query
+_OBJC_IVAR_$_MobileAssetUpdater._requireAssetMetadata
+_OBJC_METACLASS_$_MobileAssetUpdater
+_kMobileAssetUpdaterErrorDomain
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/MobileAssetUpdater.framework/MobileAssetUpdater (for architecture arm64):
+_ASErrorCode
+_OBJC_CLASS_$_MobileAssetUpdater
+_OBJC_IVAR_$_MobileAssetUpdater._asset
+_OBJC_IVAR_$_MobileAssetUpdater._assetDownloaded
+_OBJC_IVAR_$_MobileAssetUpdater._assetType
+_OBJC_IVAR_$_MobileAssetUpdater._logger
+_OBJC_IVAR_$_MobileAssetUpdater._overrideFile
+_OBJC_IVAR_$_MobileAssetUpdater._purgeOverrideFile
+_OBJC_IVAR_$_MobileAssetUpdater._query
+_OBJC_IVAR_$_MobileAssetUpdater._requireAssetMetadata
+_OBJC_METACLASS_$_MobileAssetUpdater
+_kMobileAssetUpdaterErrorDomain

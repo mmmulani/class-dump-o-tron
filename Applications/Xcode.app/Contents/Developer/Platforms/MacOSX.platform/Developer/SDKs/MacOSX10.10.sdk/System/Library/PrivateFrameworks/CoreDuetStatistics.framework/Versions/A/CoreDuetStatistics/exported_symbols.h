@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_CDSBasisObject
+_OBJC_CLASS_$_CDSEngine
+_OBJC_METACLASS_$_CDSBasisObject
+_OBJC_METACLASS_$_CDSEngine

@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_SLFacebookAuthenticationPlugin
+_OBJC_CLASS_$_SLFacebookAuthenticator
+_OBJC_METACLASS_$_SLFacebookAuthenticationPlugin
+_OBJC_METACLASS_$_SLFacebookAuthenticator

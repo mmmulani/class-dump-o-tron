@@ -1,0 +1,7 @@
+_JavaScriptOpen
+_OBJC_CLASS_$_JSStorage
+_OBJC_CLASS_$_JSStorageResult
+_OBJC_CLASS_$_JSStorageScriptContext
+_OBJC_METACLASS_$_JSStorage
+_OBJC_METACLASS_$_JSStorageResult
+_OBJC_METACLASS_$_JSStorageScriptContext

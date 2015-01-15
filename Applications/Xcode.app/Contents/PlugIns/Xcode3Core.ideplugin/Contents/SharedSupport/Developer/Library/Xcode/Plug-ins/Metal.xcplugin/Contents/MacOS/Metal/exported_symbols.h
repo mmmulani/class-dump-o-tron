@@ -1,0 +1,2 @@
+_MetalVersionNumber
+_MetalVersionString

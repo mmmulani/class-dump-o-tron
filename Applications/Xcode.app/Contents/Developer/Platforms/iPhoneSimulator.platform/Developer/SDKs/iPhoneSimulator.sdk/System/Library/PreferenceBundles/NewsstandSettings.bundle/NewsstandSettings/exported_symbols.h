@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_NewsstandSettingsController
+_OBJC_METACLASS_$_NewsstandSettingsController

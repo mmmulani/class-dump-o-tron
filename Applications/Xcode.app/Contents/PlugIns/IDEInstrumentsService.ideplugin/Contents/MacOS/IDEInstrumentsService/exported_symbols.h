@@ -1,0 +1,4 @@
+_IDEInstrumentsServiceVersionNumber
+_IDEInstrumentsServiceVersionString
+_OBJC_CLASS_$_XRXcodeAnalysisService
+_OBJC_METACLASS_$_XRXcodeAnalysisService

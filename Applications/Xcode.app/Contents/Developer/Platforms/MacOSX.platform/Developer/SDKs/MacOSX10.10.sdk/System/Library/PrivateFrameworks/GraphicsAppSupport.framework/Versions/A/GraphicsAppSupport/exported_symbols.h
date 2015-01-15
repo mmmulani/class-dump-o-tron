@@ -1,0 +1,2 @@
+_GraphicsAppSupportVersionNumber
+_GraphicsAppSupportVersionString

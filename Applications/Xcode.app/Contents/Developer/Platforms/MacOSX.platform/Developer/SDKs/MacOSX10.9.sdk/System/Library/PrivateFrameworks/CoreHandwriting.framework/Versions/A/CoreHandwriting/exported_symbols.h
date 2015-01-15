@@ -1,0 +1,7 @@
+_CHRecognitionOptionTextBefore
+_OBJC_CLASS_$_CHDrawing
+_OBJC_CLASS_$_CHRecognitionResult
+_OBJC_CLASS_$_CHRecognizer
+_OBJC_METACLASS_$_CHDrawing
+_OBJC_METACLASS_$_CHRecognitionResult
+_OBJC_METACLASS_$_CHRecognizer

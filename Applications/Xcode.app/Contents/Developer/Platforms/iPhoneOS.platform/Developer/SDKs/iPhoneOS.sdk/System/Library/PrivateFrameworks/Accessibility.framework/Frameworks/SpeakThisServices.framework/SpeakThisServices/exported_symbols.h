@@ -1,0 +1,21 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/SpeakThisServices.framework/SpeakThisServices (for architecture armv7):
+_OBJC_CLASS_$_SpeakThisServices
+_OBJC_METACLASS_$_SpeakThisServices
+_STSErrorDomain
+_STSMessageKeyOptions
+_STSMessageReplyKeyErrorCode
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/SpeakThisServices.framework/SpeakThisServices (for architecture armv7s):
+_OBJC_CLASS_$_SpeakThisServices
+_OBJC_METACLASS_$_SpeakThisServices
+_STSErrorDomain
+_STSMessageKeyOptions
+_STSMessageReplyKeyErrorCode
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/SpeakThisServices.framework/SpeakThisServices (for architecture arm64):
+_OBJC_CLASS_$_SpeakThisServices
+_OBJC_METACLASS_$_SpeakThisServices
+_STSErrorDomain
+_STSMessageKeyOptions
+_STSMessageReplyKeyErrorCode

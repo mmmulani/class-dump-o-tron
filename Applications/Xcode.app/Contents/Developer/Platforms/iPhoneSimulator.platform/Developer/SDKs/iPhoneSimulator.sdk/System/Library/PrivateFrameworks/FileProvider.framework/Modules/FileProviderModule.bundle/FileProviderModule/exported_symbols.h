@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_FPFileProviderModule
+_OBJC_METACLASS_$_FPFileProviderModule

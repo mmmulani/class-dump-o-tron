@@ -1,0 +1,2 @@
+_CocoaVersionNumber
+_CocoaVersionString

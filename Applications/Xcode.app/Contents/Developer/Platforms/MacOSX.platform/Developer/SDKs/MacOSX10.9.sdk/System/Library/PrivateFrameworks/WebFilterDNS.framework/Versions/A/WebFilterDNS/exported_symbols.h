@@ -1,0 +1,14 @@
+_LookupNameForAddr
+_NameResolvesToAddr
+_NameResolvesToName
+_WCFConnectionDealloc
+_WCFConnectionNew
+_WCFIsServerRunning
+_WCFLookupNameForAddr
+_WCFNameResolvesToAddr
+_WCFNameResolvesToName
+__WCFIsConnectionValid
+__WCFMachPort
+__rpcCall_LookupNameForAddr
+__rpcCall_NameResolvesToAddr
+__rpcCall_NameResolvesToName

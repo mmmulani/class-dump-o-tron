@@ -1,0 +1,3 @@
+_CopyHTMLForIWorkDataWithUTI
+_CopyHTMLForIWorkFileAtURL
+_IWorkPreviewProcessWithURLAndOptions

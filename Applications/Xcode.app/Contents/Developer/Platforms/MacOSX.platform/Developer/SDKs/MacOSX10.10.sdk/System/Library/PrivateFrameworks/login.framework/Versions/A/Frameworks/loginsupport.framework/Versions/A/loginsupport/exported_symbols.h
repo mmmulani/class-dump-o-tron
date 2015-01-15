@@ -1,0 +1,13 @@
+_DBLoggerMaxFlag
+_DBLoggerStartFlag
+_DBLoggingGetMaskForController
+_DBLoggingLogWithFormat
+_DBLoggingSetLogFileForController
+_DBLoggingSetMaskForController
+_DBLoggingSetSignalEnabled
+_DBLoggingStartWithController
+_DBLoggingStop
+_DBLoggingStopController
+_gDBLoggingMasks
+_kUnknownFacility
+_kUnknownProcess

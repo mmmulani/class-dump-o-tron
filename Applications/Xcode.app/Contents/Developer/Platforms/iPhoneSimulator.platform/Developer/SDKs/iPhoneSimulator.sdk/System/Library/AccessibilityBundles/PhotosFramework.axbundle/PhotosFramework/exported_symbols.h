@@ -1,0 +1,7 @@
+_OBJC_CLASS_$_PHAssetAccessibility
+_OBJC_CLASS_$_PhotosAXGlue
+_OBJC_CLASS_$___PHAssetAccessibility_super
+_OBJC_METACLASS_$_PHAssetAccessibility
+_OBJC_METACLASS_$_PhotosAXGlue
+_OBJC_METACLASS_$___PHAssetAccessibility_super
+_accessibilityPLServicesLocalizedString

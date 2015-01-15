@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_FIFinderSync
+_OBJC_CLASS_$_FIFinderSyncController
+_OBJC_METACLASS_$_FIFinderSync
+_OBJC_METACLASS_$_FIFinderSyncController

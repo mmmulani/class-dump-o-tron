@@ -1,0 +1,3 @@
+___CGBitmapContextDelegateCreate
+___CGBitmapContextDelegateData
+___CGStyleFilterContextDelegateCreate

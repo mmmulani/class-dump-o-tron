@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_VoiceOverTapToRadarExtension
+_OBJC_METACLASS_$_VoiceOverTapToRadarExtension
+__mh_execute_header

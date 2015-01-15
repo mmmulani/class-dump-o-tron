@@ -1,0 +1,2 @@
+_MapsAnnouncementsVersionNumber
+_MapsAnnouncementsVersionString

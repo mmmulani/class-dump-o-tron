@@ -1,0 +1,15 @@
+_main
+_nptInitialize
+_nptTerminate
+_utf16ToUtf8m
+_utf16ToUtf8s
+_utf8FromPlatform
+_utf8ToPlatform
+_utf8ToUtf16
+_utf8mToUtf8s
+_utf8mToUtf8sLength
+_utf8sToUtf8m
+_utf8sToUtf8mLength
+_utfError
+_utfInitialize
+_utfTerminate

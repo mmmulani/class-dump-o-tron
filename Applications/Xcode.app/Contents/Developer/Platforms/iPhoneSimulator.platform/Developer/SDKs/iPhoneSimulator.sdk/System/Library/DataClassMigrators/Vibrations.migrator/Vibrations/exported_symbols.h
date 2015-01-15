@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_VibrationDataMigrator
+_OBJC_METACLASS_$_VibrationDataMigrator

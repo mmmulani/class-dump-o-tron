@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_GKAppleIDLoginPlugin
+_OBJC_METACLASS_$_GKAppleIDLoginPlugin

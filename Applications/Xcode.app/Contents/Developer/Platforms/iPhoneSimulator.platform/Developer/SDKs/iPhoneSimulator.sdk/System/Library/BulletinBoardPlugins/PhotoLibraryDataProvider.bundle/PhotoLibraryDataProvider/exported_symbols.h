@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_PLBulletinBoardDataProvider
+_OBJC_METACLASS_$_PLBulletinBoardDataProvider

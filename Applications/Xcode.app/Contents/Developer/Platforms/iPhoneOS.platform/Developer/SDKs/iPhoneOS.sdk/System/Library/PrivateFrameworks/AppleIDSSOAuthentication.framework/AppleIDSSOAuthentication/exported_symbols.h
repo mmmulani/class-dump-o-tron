@@ -1,0 +1,33 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/AppleIDSSOAuthentication.framework/AppleIDSSOAuthentication (for architecture armv7):
+_AppleIDAuthenticationAppleIDSettingsTokenIdentifier
+_AppleIDAuthenticationServicesKey
+_AppleIDAuthenticationiCloudSettingsTokenIdentifier
+_kAlternateDSIDKey
+_kDSIDKey
+_kDeviceProvisioningMIDKey
+_kDeviceProvisioningOTPKey
+_kiCloudPersonIDKey
+_kiCloudPrimaryAccountKey
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/AppleIDSSOAuthentication.framework/AppleIDSSOAuthentication (for architecture armv7s):
+_AppleIDAuthenticationAppleIDSettingsTokenIdentifier
+_AppleIDAuthenticationServicesKey
+_AppleIDAuthenticationiCloudSettingsTokenIdentifier
+_kAlternateDSIDKey
+_kDSIDKey
+_kDeviceProvisioningMIDKey
+_kDeviceProvisioningOTPKey
+_kiCloudPersonIDKey
+_kiCloudPrimaryAccountKey
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/AppleIDSSOAuthentication.framework/AppleIDSSOAuthentication (for architecture arm64):
+_AppleIDAuthenticationAppleIDSettingsTokenIdentifier
+_AppleIDAuthenticationServicesKey
+_AppleIDAuthenticationiCloudSettingsTokenIdentifier
+_kAlternateDSIDKey
+_kDSIDKey
+_kDeviceProvisioningMIDKey
+_kDeviceProvisioningOTPKey
+_kiCloudPersonIDKey
+_kiCloudPrimaryAccountKey

@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_MobileSyncAccountNotificationObserver
+_OBJC_METACLASS_$_MobileSyncAccountNotificationObserver

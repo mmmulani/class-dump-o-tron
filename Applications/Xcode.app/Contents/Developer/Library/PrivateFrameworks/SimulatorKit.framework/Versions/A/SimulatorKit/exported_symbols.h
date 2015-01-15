@@ -1,0 +1,8 @@
+_OBJC_CLASS_$_SimDeviceMenu
+_OBJC_CLASS_$_SimDeviceMenuItemPair
+_OBJC_CLASS_$_SimUIPropertiesViewController
+_OBJC_METACLASS_$_SimDeviceMenu
+_OBJC_METACLASS_$_SimDeviceMenuItemPair
+_OBJC_METACLASS_$_SimUIPropertiesViewController
+_SimulatorKitVersionNumber
+_SimulatorKitVersionString

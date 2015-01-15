@@ -1,0 +1,16 @@
+_APSEnvironmentDemo
+_APSEnvironmentDevelopment
+_APSEnvironmentProduction
+_APSError
+_APSErrorDomain
+_APSUnderlyingError
+_OBJC_CLASS_$_APSAccessCheck
+_OBJC_CLASS_$_APSConnection
+_OBJC_CLASS_$_APSIncomingMessage
+_OBJC_CLASS_$_APSMessage
+_OBJC_CLASS_$_APSOutgoingMessage
+_OBJC_METACLASS_$_APSAccessCheck
+_OBJC_METACLASS_$_APSConnection
+_OBJC_METACLASS_$_APSIncomingMessage
+_OBJC_METACLASS_$_APSMessage
+_OBJC_METACLASS_$_APSOutgoingMessage

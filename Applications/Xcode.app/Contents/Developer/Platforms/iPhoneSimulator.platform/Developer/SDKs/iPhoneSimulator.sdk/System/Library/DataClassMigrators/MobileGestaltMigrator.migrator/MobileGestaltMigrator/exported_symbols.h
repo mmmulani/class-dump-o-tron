@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_MobileGestaltMigrator
+_OBJC_METACLASS_$_MobileGestaltMigrator

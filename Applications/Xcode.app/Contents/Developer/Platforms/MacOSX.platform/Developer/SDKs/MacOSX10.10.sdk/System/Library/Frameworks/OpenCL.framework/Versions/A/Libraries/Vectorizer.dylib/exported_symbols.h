@@ -1,0 +1,3 @@
+_createVectorizerPass
+_getVectorizerFunctions
+_getVectorizerWidths

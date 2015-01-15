@@ -1,0 +1,5 @@
+__mh_execute_header
+_authorization_create_from_xpc_message
+_com_apple_dt_Xcode_LicenseAgreementXPCServiceVersionNumber
+_com_apple_dt_Xcode_LicenseAgreementXPCServiceVersionString
+_main

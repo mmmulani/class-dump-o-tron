@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_SLVimeoAuthenticationPlugin
+_OBJC_METACLASS_$_SLVimeoAuthenticationPlugin

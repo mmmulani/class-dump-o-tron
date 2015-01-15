@@ -1,0 +1,2 @@
+_VCXMPPVersionNumber
+_VCXMPPVersionString

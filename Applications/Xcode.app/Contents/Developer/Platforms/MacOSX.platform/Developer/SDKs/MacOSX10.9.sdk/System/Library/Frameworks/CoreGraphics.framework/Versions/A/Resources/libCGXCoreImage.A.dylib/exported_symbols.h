@@ -1,0 +1,1 @@
+_cgxcoreimage_library_link_symbol

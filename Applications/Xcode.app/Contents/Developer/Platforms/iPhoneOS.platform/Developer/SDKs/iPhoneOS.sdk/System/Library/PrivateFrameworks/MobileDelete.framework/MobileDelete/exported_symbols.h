@@ -1,0 +1,24 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/MobileDelete.framework/MobileDelete (for architecture armv7):
+_MRMAllowAutoPurge
+_MRMDeleteCancelFreeupBytes
+_MRMDeleteCopyApproximatePurgeableSpace
+_MRMDeleteCouldFreeupBytes
+_MRMDeleteFreeupBytes
+_MRMDoNotAutoPurge
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/MobileDelete.framework/MobileDelete (for architecture armv7s):
+_MRMAllowAutoPurge
+_MRMDeleteCancelFreeupBytes
+_MRMDeleteCopyApproximatePurgeableSpace
+_MRMDeleteCouldFreeupBytes
+_MRMDeleteFreeupBytes
+_MRMDoNotAutoPurge
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/MobileDelete.framework/MobileDelete (for architecture arm64):
+_MRMAllowAutoPurge
+_MRMDeleteCancelFreeupBytes
+_MRMDeleteCopyApproximatePurgeableSpace
+_MRMDeleteCouldFreeupBytes
+_MRMDeleteFreeupBytes
+_MRMDoNotAutoPurge

@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_AccessibilityTapToRadarExtension
+_OBJC_METACLASS_$_AccessibilityTapToRadarExtension
+__mh_execute_header

@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_SLTwitterAuthenticationPlugin
+_OBJC_METACLASS_$_SLTwitterAuthenticationPlugin

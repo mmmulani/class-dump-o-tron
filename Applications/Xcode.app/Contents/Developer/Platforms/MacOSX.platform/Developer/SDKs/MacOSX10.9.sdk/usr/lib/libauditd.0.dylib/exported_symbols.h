@@ -1,0 +1,17 @@
+_audit_quick_start
+_audit_quick_stop
+_auditd_close_dirs
+_auditd_expire_trails
+_auditd_gen_record
+_auditd_new_curlink
+_auditd_prevent_audit
+_auditd_read_dirs
+_auditd_set_evcmap
+_auditd_set_fsize
+_auditd_set_host
+_auditd_set_minfree
+_auditd_set_namask
+_auditd_set_policy
+_auditd_set_sflags_masks
+_auditd_strerror
+_auditd_swap_trail

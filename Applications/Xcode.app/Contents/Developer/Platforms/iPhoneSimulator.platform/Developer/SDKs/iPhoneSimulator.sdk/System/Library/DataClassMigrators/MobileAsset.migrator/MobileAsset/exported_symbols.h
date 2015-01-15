@@ -1,0 +1,5 @@
+_ASErrorCode
+_OBJC_CLASS_$_ASMigrator
+_OBJC_METACLASS_$_ASMigrator
+___MobileAssetVersionNumber
+___MobileAssetVersionString

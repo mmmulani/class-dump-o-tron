@@ -1,0 +1,18 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AXElementInteraction.framework/AXElementInteraction (for architecture armv7):
+_AXAXElementInteractionVersionNumber
+_AXAXElementInteractionVersionString
+_OBJC_CLASS_$_AXElementInteractionManager
+_OBJC_METACLASS_$_AXElementInteractionManager
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AXElementInteraction.framework/AXElementInteraction (for architecture armv7s):
+_AXAXElementInteractionVersionNumber
+_AXAXElementInteractionVersionString
+_OBJC_CLASS_$_AXElementInteractionManager
+_OBJC_METACLASS_$_AXElementInteractionManager
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AXElementInteraction.framework/AXElementInteraction (for architecture arm64):
+_AXAXElementInteractionVersionNumber
+_AXAXElementInteractionVersionString
+_OBJC_CLASS_$_AXElementInteractionManager
+_OBJC_METACLASS_$_AXElementInteractionManager

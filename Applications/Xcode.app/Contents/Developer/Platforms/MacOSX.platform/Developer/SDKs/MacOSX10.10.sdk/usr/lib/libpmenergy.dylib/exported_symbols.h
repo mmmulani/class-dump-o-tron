@@ -1,0 +1,5 @@
+_pm_energy_impact
+_pm_energy_impact_internal
+_pm_mach_time_to_ns
+_pm_task_add
+_pm_task_subtract

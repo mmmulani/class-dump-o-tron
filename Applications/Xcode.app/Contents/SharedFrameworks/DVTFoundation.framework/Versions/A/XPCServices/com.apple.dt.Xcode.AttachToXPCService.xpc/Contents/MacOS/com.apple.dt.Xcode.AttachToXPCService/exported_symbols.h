@@ -1,0 +1,8 @@
+_OBJC_CLASS_$_DVTObserveXPC
+_OBJC_IVAR_$_DVTObserveXPC._connection
+_OBJC_IVAR_$_DVTObserveXPC._listener
+_OBJC_METACLASS_$_DVTObserveXPC
+__mh_execute_header
+_com_apple_dt_Xcode_AttachToXPCServiceVersionNumber
+_com_apple_dt_Xcode_AttachToXPCServiceVersionString
+_main

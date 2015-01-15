@@ -1,0 +1,4 @@
+_IDEAppleScriptEditorVersionNumber
+_IDEAppleScriptEditorVersionString
+_OBJC_CLASS_$_IDEAppleScriptDocument
+_OBJC_METACLASS_$_IDEAppleScriptDocument

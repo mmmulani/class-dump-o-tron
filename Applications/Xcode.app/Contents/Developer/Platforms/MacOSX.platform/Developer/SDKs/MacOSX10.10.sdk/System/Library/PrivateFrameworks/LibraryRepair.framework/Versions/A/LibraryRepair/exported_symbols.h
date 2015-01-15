@@ -1,0 +1,13 @@
+_LRConnectionInterruptedCode
+_LRConnectionInvalidCode
+_LRErrorDomain
+_LRFailureErrorCode
+_LRInvalidArgumentsCode
+_LRNotAuthorizedCode
+_LRRepairNeededCode
+_LRRepairOpKey
+_LRRepairPathKey
+_LRRepairValueKey
+_LRTargetVerificationFailureCode
+_OBJC_CLASS_$_LROperation
+_OBJC_METACLASS_$_LROperation

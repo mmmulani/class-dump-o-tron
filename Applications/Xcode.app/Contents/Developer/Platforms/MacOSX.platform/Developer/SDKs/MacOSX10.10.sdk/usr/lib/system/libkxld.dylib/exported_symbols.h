@@ -1,0 +1,4 @@
+_kxld_create_context
+_kxld_destroy_context
+_kxld_link_file
+_kxld_validate_copyright_string

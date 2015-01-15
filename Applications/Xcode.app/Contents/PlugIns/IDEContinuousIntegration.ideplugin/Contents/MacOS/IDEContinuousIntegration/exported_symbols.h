@@ -1,0 +1,2 @@
+_IDEContinuousIntegrationVersionNumber
+_IDEContinuousIntegrationVersionString

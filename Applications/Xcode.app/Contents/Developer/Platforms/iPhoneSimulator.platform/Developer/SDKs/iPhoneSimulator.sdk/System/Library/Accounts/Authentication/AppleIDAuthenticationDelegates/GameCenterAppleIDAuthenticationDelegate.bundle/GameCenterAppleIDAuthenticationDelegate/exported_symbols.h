@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_GKAppleIDAuthenticationDelegate
+_OBJC_METACLASS_$_GKAppleIDAuthenticationDelegate

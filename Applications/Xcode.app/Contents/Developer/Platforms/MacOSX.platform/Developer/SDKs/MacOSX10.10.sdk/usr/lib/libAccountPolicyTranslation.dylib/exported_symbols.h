@@ -1,0 +1,5 @@
+_APCategoryAndIdentifierForLegacyPolicyName
+_APLegacyPoliciesWithPolicySet
+_APPolicySetWithLegacyPolicies
+_kAPLegacyPolicyCategory
+_kAPLegacyPolicyIdentifier

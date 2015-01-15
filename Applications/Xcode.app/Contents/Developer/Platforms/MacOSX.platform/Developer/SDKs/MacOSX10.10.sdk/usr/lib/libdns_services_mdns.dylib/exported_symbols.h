@@ -1,0 +1,2 @@
+_DNSXEnableProxy
+_DNSXRefDeAlloc

@@ -1,0 +1,2 @@
+_Clang_LLVM_1_0VersionNumber
+_Clang_LLVM_1_0VersionString

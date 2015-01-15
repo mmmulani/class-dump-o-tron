@@ -1,0 +1,24 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/DataAccess.framework/Frameworks/DACardDAV.framework/DACardDAV (for architecture armv7):
+_OBJC_CLASS_$_CardDAVAccount
+_OBJC_CLASS_$_CardDAVLocalDBHelper
+_OBJC_CLASS_$_CardDAVPropertiesHelper
+_OBJC_METACLASS_$_CardDAVAccount
+_OBJC_METACLASS_$_CardDAVLocalDBHelper
+_OBJC_METACLASS_$_CardDAVPropertiesHelper
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/DataAccess.framework/Frameworks/DACardDAV.framework/DACardDAV (for architecture armv7s):
+_OBJC_CLASS_$_CardDAVAccount
+_OBJC_CLASS_$_CardDAVLocalDBHelper
+_OBJC_CLASS_$_CardDAVPropertiesHelper
+_OBJC_METACLASS_$_CardDAVAccount
+_OBJC_METACLASS_$_CardDAVLocalDBHelper
+_OBJC_METACLASS_$_CardDAVPropertiesHelper
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/DataAccess.framework/Frameworks/DACardDAV.framework/DACardDAV (for architecture arm64):
+_OBJC_CLASS_$_CardDAVAccount
+_OBJC_CLASS_$_CardDAVLocalDBHelper
+_OBJC_CLASS_$_CardDAVPropertiesHelper
+_OBJC_METACLASS_$_CardDAVAccount
+_OBJC_METACLASS_$_CardDAVLocalDBHelper
+_OBJC_METACLASS_$_CardDAVPropertiesHelper

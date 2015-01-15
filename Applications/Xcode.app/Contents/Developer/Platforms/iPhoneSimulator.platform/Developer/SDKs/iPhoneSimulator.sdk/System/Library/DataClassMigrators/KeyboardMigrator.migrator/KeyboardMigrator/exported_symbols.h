@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_KeyboardMigrator
+_OBJC_IVAR_$_KeyboardMigrator._store
+_OBJC_METACLASS_$_KeyboardMigrator

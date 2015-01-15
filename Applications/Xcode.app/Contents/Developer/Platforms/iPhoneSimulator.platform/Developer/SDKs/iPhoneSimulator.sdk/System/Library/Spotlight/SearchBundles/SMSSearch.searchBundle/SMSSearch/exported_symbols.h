@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_SMSSearchDatastore
+_OBJC_IVAR_$_SMSSearchDatastore._indexCount
+_OBJC_METACLASS_$_SMSSearchDatastore

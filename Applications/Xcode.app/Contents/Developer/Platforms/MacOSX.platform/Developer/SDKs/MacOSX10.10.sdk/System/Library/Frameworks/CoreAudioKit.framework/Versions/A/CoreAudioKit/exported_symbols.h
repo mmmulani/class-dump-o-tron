@@ -1,0 +1,6 @@
+_OBJC_CLASS_$_AUGenericView
+_OBJC_CLASS_$_AUGenericViewFactory
+_OBJC_CLASS_$_AUPannerView
+_OBJC_METACLASS_$_AUGenericView
+_OBJC_METACLASS_$_AUGenericViewFactory
+_OBJC_METACLASS_$_AUPannerView

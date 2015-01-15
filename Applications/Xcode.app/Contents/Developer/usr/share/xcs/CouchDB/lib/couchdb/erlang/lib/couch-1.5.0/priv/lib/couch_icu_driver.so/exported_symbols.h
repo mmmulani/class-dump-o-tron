@@ -1,0 +1,3 @@
+_couch_driver_entry
+_driver_init
+_return_control_result

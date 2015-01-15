@@ -1,0 +1,2 @@
+_XTCopyAvailableFontURLs
+_XTCopyFontWithName

@@ -1,0 +1,5 @@
+_FSM_shared_memory_address
+_OBJC_CLASS_$_DTFSMonitor
+_OBJC_METACLASS_$_DTFSMonitor
+_fsmonitor_interposeVersionNumber
+_fsmonitor_interposeVersionString

@@ -1,0 +1,13 @@
+_GetNSFriendlySeparator
+_IUIntlPreferencesVersionNumber
+_IUIntlPreferencesVersionString
+_IntlPreferencesValue
+_IntlSetPreferencesValue
+_OBJC_CLASS_$_IntlUtility
+_OBJC_IVAR_$_IntlUtility.mBidiLanguagesArray
+_OBJC_IVAR_$_IntlUtility.mBidiTestedLanguagesArray
+_OBJC_IVAR_$_IntlUtility.mDisplayLanguageCachePtr
+_OBJC_IVAR_$_IntlUtility.mDisplayLanguageCacheUsed
+_OBJC_IVAR_$_IntlUtility.mLanguageList
+_OBJC_IVAR_$_IntlUtility.mLocalizedLanguageList
+_OBJC_METACLASS_$_IntlUtility

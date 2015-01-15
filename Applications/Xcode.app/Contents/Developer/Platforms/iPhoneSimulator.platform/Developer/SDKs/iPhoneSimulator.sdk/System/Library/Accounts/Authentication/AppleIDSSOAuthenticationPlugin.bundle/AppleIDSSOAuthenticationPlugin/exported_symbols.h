@@ -1,0 +1,16 @@
+_OBJC_CLASS_$_AppleIDSSOAuthenticationPlugin
+_OBJC_METACLASS_$_AppleIDSSOAuthenticationPlugin
+_authAttempts
+_authRetries
+_kADSIDServerKey
+_kAlternateDSIDKey
+_kAppTokenServerKey
+_kAppleIDAuthServices
+_kAppleIDClientIdentifierServerKey
+_kBootStrapServerKey
+_kDSIDKey
+_kDSIDServerKey
+_kDurationServerKey
+_kExpiryServerKey
+_kMasterTokenServerKey
+_testServerURL

@@ -1,0 +1,4 @@
+_DTARMFixupCallStack
+_DTIntelFixupCallStack
+_PFTDTLLVMBinaryAnalysisPluginVersionNumber
+_PFTDTLLVMBinaryAnalysisPluginVersionString

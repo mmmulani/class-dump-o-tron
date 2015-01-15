@@ -1,0 +1,5 @@
+_CPLoggingForKEventActionEnabled
+_CPLoggingKEventActionFacilityName
+_CoreProfileKEventActionBundleVersionNumber
+_CoreProfileKEventActionBundleVersionString
+_actionMethods

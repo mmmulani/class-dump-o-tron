@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_GuidedAccessTapToRadarExtension
+_OBJC_METACLASS_$_GuidedAccessTapToRadarExtension
+__mh_execute_header

@@ -1,0 +1,2 @@
+_NSAppKitScriptingVersionNumber
+_NSAppKitScriptingVersionString

@@ -1,0 +1,7 @@
+_OBJC_CLASS_$_RemoteBundleLoader
+_OBJC_METACLASS_$_RemoteBundleLoader
+_RemoteInjectionVersionNumber
+_RemoteInjectionVersionString
+_execute_loader_in_task
+_local_loader_function
+_pthread_local_loader_variant

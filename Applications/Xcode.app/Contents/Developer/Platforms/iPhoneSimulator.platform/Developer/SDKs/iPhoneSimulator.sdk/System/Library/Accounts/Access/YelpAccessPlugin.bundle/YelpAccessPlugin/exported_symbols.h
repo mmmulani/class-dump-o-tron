@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_YelpAccessPlugin
+_OBJC_METACLASS_$_YelpAccessPlugin

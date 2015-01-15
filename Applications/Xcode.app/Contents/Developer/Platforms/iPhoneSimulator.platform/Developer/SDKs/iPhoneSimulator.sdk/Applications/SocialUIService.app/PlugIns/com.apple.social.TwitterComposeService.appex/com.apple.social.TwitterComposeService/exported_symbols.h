@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_SLTwitterComposeViewController
+_OBJC_METACLASS_$_SLTwitterComposeViewController
+__mh_execute_header
+_main

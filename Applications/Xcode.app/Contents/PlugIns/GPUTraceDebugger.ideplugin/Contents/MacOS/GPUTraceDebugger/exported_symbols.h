@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_GPUDebuggingAddition
+_OBJC_METACLASS_$_GPUDebuggingAddition

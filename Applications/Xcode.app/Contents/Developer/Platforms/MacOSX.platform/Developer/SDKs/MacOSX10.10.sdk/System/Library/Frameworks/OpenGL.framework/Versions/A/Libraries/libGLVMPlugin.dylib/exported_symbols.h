@@ -1,0 +1,6 @@
+_cvmsPluginElementBuild
+_cvmsPluginServiceInitialize
+_cvmsPluginServiceTerminate
+_oglCodeGenServiceGenerateIR
+_oglCodeGenServiceInitialize
+_oglCodeGenServiceTerminate

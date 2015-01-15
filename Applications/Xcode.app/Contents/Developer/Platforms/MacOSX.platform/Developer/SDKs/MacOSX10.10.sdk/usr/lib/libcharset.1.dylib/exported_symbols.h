@@ -1,0 +1,5 @@
+___charset_1VersionNumber
+___charset_1VersionString
+_libcharset_relocate
+_libcharset_set_relocation_prefix
+_locale_charset

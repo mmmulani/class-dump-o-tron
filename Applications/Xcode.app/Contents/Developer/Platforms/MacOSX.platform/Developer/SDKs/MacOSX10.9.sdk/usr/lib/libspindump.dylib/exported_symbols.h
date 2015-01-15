@@ -1,0 +1,5 @@
+_SPReportStuckProcess
+_SPReportStuckProcessWithCallback
+_SPReportUnstuckProcess
+_dscsym_iterate_binaries
+_dscsym_save_nuggets_for_current_caches

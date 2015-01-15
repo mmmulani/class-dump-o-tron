@@ -1,0 +1,18 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/SyncedDefaults.framework/SyncedDefaults (for architecture armv7):
+_OBJC_CLASS_$_SYDRemotePreferencesSource
+_OBJC_METACLASS_$_SYDRemotePreferencesSource
+_SYDRemotePreferencesSourceConfigurationDidChangeNotification
+_SYDRemotePreferencesSourceDidChangeNotification
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/SyncedDefaults.framework/SyncedDefaults (for architecture armv7s):
+_OBJC_CLASS_$_SYDRemotePreferencesSource
+_OBJC_METACLASS_$_SYDRemotePreferencesSource
+_SYDRemotePreferencesSourceConfigurationDidChangeNotification
+_SYDRemotePreferencesSourceDidChangeNotification
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/SyncedDefaults.framework/SyncedDefaults (for architecture arm64):
+_OBJC_CLASS_$_SYDRemotePreferencesSource
+_OBJC_METACLASS_$_SYDRemotePreferencesSource
+_SYDRemotePreferencesSourceConfigurationDidChangeNotification
+_SYDRemotePreferencesSourceDidChangeNotification

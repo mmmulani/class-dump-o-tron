@@ -1,0 +1,11 @@
+_CopyConfirmedFontsForAutoActivationRequest
+_kXTUIPropertyApplicationName
+_kXTUIPropertyBundleURL
+_kXTUIPropertyCandidateFontURLs
+_kXTUIPropertyFontName
+_kXTUIPropertyFontNames
+_kXTUIPropertyFontURL
+_kXTUIPropertyIconImageData
+_kXTUIPropertyRequestDictionary
+_kXTUIPropertyResult
+_kXTUIPropertySuppress

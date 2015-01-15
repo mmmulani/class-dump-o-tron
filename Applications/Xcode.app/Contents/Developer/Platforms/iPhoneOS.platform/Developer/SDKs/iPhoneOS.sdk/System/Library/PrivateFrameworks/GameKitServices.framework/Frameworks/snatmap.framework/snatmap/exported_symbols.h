@@ -1,0 +1,24 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/snatmap.framework/snatmap (for architecture armv7):
+_GetSNATMAPServer
+_MakeSNATMAPRequest
+_ProcessSNATMAPResponse
+_SNATMAP_getPortMapping
+_SNATMAP_heartbeat
+_SNATMAP_updateExternalIPPortInfo
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/snatmap.framework/snatmap (for architecture armv7s):
+_GetSNATMAPServer
+_MakeSNATMAPRequest
+_ProcessSNATMAPResponse
+_SNATMAP_getPortMapping
+_SNATMAP_heartbeat
+_SNATMAP_updateExternalIPPortInfo
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/snatmap.framework/snatmap (for architecture arm64):
+_GetSNATMAPServer
+_MakeSNATMAPRequest
+_ProcessSNATMAPResponse
+_SNATMAP_getPortMapping
+_SNATMAP_heartbeat
+_SNATMAP_updateExternalIPPortInfo

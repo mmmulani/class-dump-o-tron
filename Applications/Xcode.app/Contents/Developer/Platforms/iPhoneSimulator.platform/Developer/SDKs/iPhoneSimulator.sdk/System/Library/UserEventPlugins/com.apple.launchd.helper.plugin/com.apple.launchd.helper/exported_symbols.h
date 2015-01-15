@@ -1,0 +1,4 @@
+_com_apple_launchd_helperVersionNumber
+_com_apple_launchd_helperVersionString
+_init_launchd_helper
+_launchd_helper_events

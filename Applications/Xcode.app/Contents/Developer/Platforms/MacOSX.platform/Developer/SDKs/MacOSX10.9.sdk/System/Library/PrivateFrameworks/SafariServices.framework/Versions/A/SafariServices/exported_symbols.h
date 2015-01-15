@@ -1,0 +1,5 @@
+_SSGetSyncedDataClasses
+_SSHasDefaultBookmarks
+_SSPerformFirstLogInWork
+_SSRemoveSyncedKeychainData
+_SSSyncedTabsServiceEnableStateChanged

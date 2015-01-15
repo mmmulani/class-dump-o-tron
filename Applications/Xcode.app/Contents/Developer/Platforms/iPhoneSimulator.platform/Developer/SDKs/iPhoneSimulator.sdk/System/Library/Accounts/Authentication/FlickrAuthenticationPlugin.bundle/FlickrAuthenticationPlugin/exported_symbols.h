@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_SLFlickrAuthenticationPlugin
+_OBJC_METACLASS_$_SLFlickrAuthenticationPlugin

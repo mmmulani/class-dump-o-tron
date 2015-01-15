@@ -1,0 +1,4 @@
+__mh_execute_header
+_com_apple_CoreSimulator_SimVerificationServiceVersionNumber
+_com_apple_CoreSimulator_SimVerificationServiceVersionString
+_main

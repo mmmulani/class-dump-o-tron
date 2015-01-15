@@ -1,0 +1,27 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/MTLCompiler.framework/MTLCompiler (for architecture arm64):
+_MTLCodeGenServiceBuildRequest
+_MTLCodeGenServiceCreate
+_MTLCodeGenServiceDestroy
+_MTLCodeGenServiceSetPluginPath
+_MTLPixelFormatGetInfo
+_MTLPixelFormatGetInfoColorRenderTarget
+_MTLPixelFormatGetName
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/MTLCompiler.framework/MTLCompiler (for architecture armv7):
+_MTLCodeGenServiceBuildRequest
+_MTLCodeGenServiceCreate
+_MTLCodeGenServiceDestroy
+_MTLCodeGenServiceSetPluginPath
+_MTLPixelFormatGetInfo
+_MTLPixelFormatGetInfoColorRenderTarget
+_MTLPixelFormatGetName
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/MTLCompiler.framework/MTLCompiler (for architecture armv7s):
+_MTLCodeGenServiceBuildRequest
+_MTLCodeGenServiceCreate
+_MTLCodeGenServiceDestroy
+_MTLCodeGenServiceSetPluginPath
+_MTLPixelFormatGetInfo
+_MTLPixelFormatGetInfoColorRenderTarget
+_MTLPixelFormatGetName

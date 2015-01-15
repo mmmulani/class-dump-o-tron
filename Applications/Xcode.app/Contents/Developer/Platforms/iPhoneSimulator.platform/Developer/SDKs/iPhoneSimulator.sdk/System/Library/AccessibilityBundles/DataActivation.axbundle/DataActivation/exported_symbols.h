@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_AXDataActivation
+_OBJC_METACLASS_$_AXDataActivation
+_accessibilityLocalizedString

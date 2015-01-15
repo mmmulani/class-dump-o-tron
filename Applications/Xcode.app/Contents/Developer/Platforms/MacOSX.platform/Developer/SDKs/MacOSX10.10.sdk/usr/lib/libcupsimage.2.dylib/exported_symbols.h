@@ -1,0 +1,14 @@
+__cupsRasterAddError
+__cupsRasterClearError
+__cupsRasterExecPS
+_cupsRasterClose
+_cupsRasterErrorString
+_cupsRasterInterpretPPD
+_cupsRasterOpen
+_cupsRasterOpenIO
+_cupsRasterReadHeader
+_cupsRasterReadHeader2
+_cupsRasterReadPixels
+_cupsRasterWriteHeader
+_cupsRasterWriteHeader2
+_cupsRasterWritePixels

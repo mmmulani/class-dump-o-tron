@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_CDDebug
+_OBJC_METACLASS_$_CDDebug

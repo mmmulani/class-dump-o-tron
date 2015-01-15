@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_AAiCloudAppleIDLoginPlugin
+_OBJC_METACLASS_$_AAiCloudAppleIDLoginPlugin

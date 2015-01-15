@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_LegacyMessageAccountsMigrator
+_OBJC_CLASS_$_MFLegacyAccount
+_OBJC_METACLASS_$_LegacyMessageAccountsMigrator
+_OBJC_METACLASS_$_MFLegacyAccount

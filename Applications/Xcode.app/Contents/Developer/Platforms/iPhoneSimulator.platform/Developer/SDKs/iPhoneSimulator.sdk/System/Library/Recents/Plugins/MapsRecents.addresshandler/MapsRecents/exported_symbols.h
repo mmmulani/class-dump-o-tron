@@ -1,0 +1,4 @@
+_MapsRecentsVersionNumber
+_MapsRecentsVersionString
+_OBJC_CLASS_$_MapsAddressHandler
+_OBJC_METACLASS_$_MapsAddressHandler

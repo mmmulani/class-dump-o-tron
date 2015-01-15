@@ -1,0 +1,9 @@
+_CheckInHandle
+_CheckOutHandle
+_CloseAllHandles
+_CreateHandle
+_FindHandle
+_GetNumHandles
+_InitAllHandles
+_InitHandle
+_UninitHandle

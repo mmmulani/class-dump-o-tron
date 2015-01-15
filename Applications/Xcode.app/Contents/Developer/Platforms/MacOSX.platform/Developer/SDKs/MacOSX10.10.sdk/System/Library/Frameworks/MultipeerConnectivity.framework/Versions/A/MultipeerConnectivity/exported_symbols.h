@@ -1,0 +1,15 @@
+_MCErrorDomain
+_OBJC_CLASS_$_MCAdvertiserAssistant
+_OBJC_CLASS_$_MCBrowserViewController
+_OBJC_CLASS_$_MCNearbyServiceAdvertiser
+_OBJC_CLASS_$_MCNearbyServiceBrowser
+_OBJC_CLASS_$_MCPeerID
+_OBJC_CLASS_$_MCSession
+_OBJC_METACLASS_$_MCAdvertiserAssistant
+_OBJC_METACLASS_$_MCBrowserViewController
+_OBJC_METACLASS_$_MCNearbyServiceAdvertiser
+_OBJC_METACLASS_$_MCNearbyServiceBrowser
+_OBJC_METACLASS_$_MCPeerID
+_OBJC_METACLASS_$_MCSession
+_kMCSessionMaximumNumberOfPeers
+_kMCSessionMinimumNumberOfPeers

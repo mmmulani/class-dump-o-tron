@@ -1,0 +1,11 @@
+_OBJC_CLASS_$_WFUserSettings
+_OBJC_CLASS_$_WebFilterEvaluator
+_OBJC_IVAR_$_WebFilterEvaluator._buffer
+_OBJC_IVAR_$_WebFilterEvaluator._filterState
+_OBJC_IVAR_$_WebFilterEvaluator._pageTitle
+_OBJC_IVAR_$_WebFilterEvaluator._url
+_OBJC_METACLASS_$_WFUserSettings
+_OBJC_METACLASS_$_WebFilterEvaluator
+_WFUserWhiteListAllowedSitesAddress
+_WFUserWhiteListAllowedSitesBookmarkPath
+_WFUserWhiteListAllowedSitesPageTitle

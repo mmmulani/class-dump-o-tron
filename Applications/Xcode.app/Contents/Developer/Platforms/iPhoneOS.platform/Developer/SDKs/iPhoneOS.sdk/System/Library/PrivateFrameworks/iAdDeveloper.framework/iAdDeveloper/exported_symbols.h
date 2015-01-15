@@ -1,0 +1,45 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/iAdDeveloper.framework/iAdDeveloper (for architecture armv7):
+_OBJC_CLASS_$_ADEmbeddedAdServer
+_OBJC_CLASS_$_HTSHTTPMessage
+_OBJC_CLASS_$_HTSHTTPMessageRequest
+_OBJC_CLASS_$_HTSHTTPMessageResponse
+_OBJC_CLASS_$_HTSHTTPServer
+_OBJC_CLASS_$_HTSHTTPServerConnection
+_OBJC_METACLASS_$_ADEmbeddedAdServer
+_OBJC_METACLASS_$_HTSHTTPMessage
+_OBJC_METACLASS_$_HTSHTTPMessageRequest
+_OBJC_METACLASS_$_HTSHTTPMessageResponse
+_OBJC_METACLASS_$_HTSHTTPServer
+_OBJC_METACLASS_$_HTSHTTPServerConnection
+__ADFSEventsCallback
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/iAdDeveloper.framework/iAdDeveloper (for architecture armv7s):
+_OBJC_CLASS_$_ADEmbeddedAdServer
+_OBJC_CLASS_$_HTSHTTPMessage
+_OBJC_CLASS_$_HTSHTTPMessageRequest
+_OBJC_CLASS_$_HTSHTTPMessageResponse
+_OBJC_CLASS_$_HTSHTTPServer
+_OBJC_CLASS_$_HTSHTTPServerConnection
+_OBJC_METACLASS_$_ADEmbeddedAdServer
+_OBJC_METACLASS_$_HTSHTTPMessage
+_OBJC_METACLASS_$_HTSHTTPMessageRequest
+_OBJC_METACLASS_$_HTSHTTPMessageResponse
+_OBJC_METACLASS_$_HTSHTTPServer
+_OBJC_METACLASS_$_HTSHTTPServerConnection
+__ADFSEventsCallback
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/iAdDeveloper.framework/iAdDeveloper (for architecture arm64):
+_OBJC_CLASS_$_ADEmbeddedAdServer
+_OBJC_CLASS_$_HTSHTTPMessage
+_OBJC_CLASS_$_HTSHTTPMessageRequest
+_OBJC_CLASS_$_HTSHTTPMessageResponse
+_OBJC_CLASS_$_HTSHTTPServer
+_OBJC_CLASS_$_HTSHTTPServerConnection
+_OBJC_METACLASS_$_ADEmbeddedAdServer
+_OBJC_METACLASS_$_HTSHTTPMessage
+_OBJC_METACLASS_$_HTSHTTPMessageRequest
+_OBJC_METACLASS_$_HTSHTTPMessageResponse
+_OBJC_METACLASS_$_HTSHTTPServer
+_OBJC_METACLASS_$_HTSHTTPServerConnection
+__ADFSEventsCallback

@@ -1,0 +1,17 @@
+___iconv_2VersionNumber
+___iconv_2VersionString
+__libiconv_version
+_aliases2_lookup
+_aliases_lookup
+_iconv
+_iconv_canonicalize
+_iconv_close
+_iconv_open
+_iconvctl
+_iconvlist
+_libiconv_relocate
+_libiconv_set_relocation_prefix
+_locale_charset
+_utf8_decodestr
+_utf8_encodestr
+_utf_extrabytes

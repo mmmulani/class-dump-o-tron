@@ -1,0 +1,4 @@
+_T1GetPSFontEncoding
+_T1GetSynthesisData
+_T1ReleaseSynthesisData
+_Type1ScalerOpen

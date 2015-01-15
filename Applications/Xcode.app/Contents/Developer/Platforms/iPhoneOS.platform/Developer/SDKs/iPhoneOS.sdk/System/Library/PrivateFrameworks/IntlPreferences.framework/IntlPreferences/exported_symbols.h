@@ -1,0 +1,45 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/IntlPreferences.framework/IntlPreferences (for architecture armv7):
+_GetNSFriendlySeparator
+_IUIntlPreferencesVersionNumber
+_IUIntlPreferencesVersionString
+_IntlPreferencesValue
+_IntlSetPreferencesValue
+_OBJC_CLASS_$_IntlUtility
+_OBJC_IVAR_$_IntlUtility.mBidiLanguagesArray
+_OBJC_IVAR_$_IntlUtility.mBidiTestedLanguagesArray
+_OBJC_IVAR_$_IntlUtility.mDisplayLanguageCachePtr
+_OBJC_IVAR_$_IntlUtility.mDisplayLanguageCacheUsed
+_OBJC_IVAR_$_IntlUtility.mLanguageList
+_OBJC_IVAR_$_IntlUtility.mLocalizedLanguageList
+_OBJC_METACLASS_$_IntlUtility
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/IntlPreferences.framework/IntlPreferences (for architecture armv7s):
+_GetNSFriendlySeparator
+_IUIntlPreferencesVersionNumber
+_IUIntlPreferencesVersionString
+_IntlPreferencesValue
+_IntlSetPreferencesValue
+_OBJC_CLASS_$_IntlUtility
+_OBJC_IVAR_$_IntlUtility.mBidiLanguagesArray
+_OBJC_IVAR_$_IntlUtility.mBidiTestedLanguagesArray
+_OBJC_IVAR_$_IntlUtility.mDisplayLanguageCachePtr
+_OBJC_IVAR_$_IntlUtility.mDisplayLanguageCacheUsed
+_OBJC_IVAR_$_IntlUtility.mLanguageList
+_OBJC_IVAR_$_IntlUtility.mLocalizedLanguageList
+_OBJC_METACLASS_$_IntlUtility
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/IntlPreferences.framework/IntlPreferences (for architecture arm64):
+_GetNSFriendlySeparator
+_IUIntlPreferencesVersionNumber
+_IUIntlPreferencesVersionString
+_IntlPreferencesValue
+_IntlSetPreferencesValue
+_OBJC_CLASS_$_IntlUtility
+_OBJC_IVAR_$_IntlUtility.mBidiLanguagesArray
+_OBJC_IVAR_$_IntlUtility.mBidiTestedLanguagesArray
+_OBJC_IVAR_$_IntlUtility.mDisplayLanguageCachePtr
+_OBJC_IVAR_$_IntlUtility.mDisplayLanguageCacheUsed
+_OBJC_IVAR_$_IntlUtility.mLanguageList
+_OBJC_IVAR_$_IntlUtility.mLocalizedLanguageList
+_OBJC_METACLASS_$_IntlUtility

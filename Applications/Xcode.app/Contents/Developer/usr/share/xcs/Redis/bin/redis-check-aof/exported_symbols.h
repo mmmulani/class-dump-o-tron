@@ -1,0 +1,8 @@
+__mh_execute_header
+_consumeNewline
+_main
+_process
+_readArgc
+_readBytes
+_readLong
+_readString

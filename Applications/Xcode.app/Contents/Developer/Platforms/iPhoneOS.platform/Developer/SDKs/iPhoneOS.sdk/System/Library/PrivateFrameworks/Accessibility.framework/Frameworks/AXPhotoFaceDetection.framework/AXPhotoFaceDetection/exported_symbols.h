@@ -1,0 +1,24 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AXPhotoFaceDetection.framework/AXPhotoFaceDetection (for architecture armv7):
+_OBJC_CLASS_$_AXFaceDetection
+_OBJC_CLASS_$_FaceCoreLightWrapper
+_OBJC_CLASS_$_FaceWrapper
+_OBJC_METACLASS_$_AXFaceDetection
+_OBJC_METACLASS_$_FaceCoreLightWrapper
+_OBJC_METACLASS_$_FaceWrapper
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AXPhotoFaceDetection.framework/AXPhotoFaceDetection (for architecture armv7s):
+_OBJC_CLASS_$_AXFaceDetection
+_OBJC_CLASS_$_FaceCoreLightWrapper
+_OBJC_CLASS_$_FaceWrapper
+_OBJC_METACLASS_$_AXFaceDetection
+_OBJC_METACLASS_$_FaceCoreLightWrapper
+_OBJC_METACLASS_$_FaceWrapper
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AXPhotoFaceDetection.framework/AXPhotoFaceDetection (for architecture arm64):
+_OBJC_CLASS_$_AXFaceDetection
+_OBJC_CLASS_$_FaceCoreLightWrapper
+_OBJC_CLASS_$_FaceWrapper
+_OBJC_METACLASS_$_AXFaceDetection
+_OBJC_METACLASS_$_FaceCoreLightWrapper
+_OBJC_METACLASS_$_FaceWrapper

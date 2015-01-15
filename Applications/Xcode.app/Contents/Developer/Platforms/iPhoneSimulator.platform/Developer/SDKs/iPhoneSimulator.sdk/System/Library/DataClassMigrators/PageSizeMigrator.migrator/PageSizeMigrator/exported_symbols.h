@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_PageSizeMigrator
+_OBJC_METACLASS_$_PageSizeMigrator

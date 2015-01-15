@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_AXWebProcessLoader
+_OBJC_METACLASS_$_AXWebProcessLoader
+_WebAXSystemGetAccessibilityBundlesDirectoryPath
+_WebAXSystemGetRootDirectoryPath

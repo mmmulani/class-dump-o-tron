@@ -1,0 +1,4 @@
+_IUInternationalSupportMigratorVersionNumber
+_IUInternationalSupportMigratorVersionString
+_OBJC_CLASS_$_InternationalMigrator
+_OBJC_METACLASS_$_InternationalMigrator

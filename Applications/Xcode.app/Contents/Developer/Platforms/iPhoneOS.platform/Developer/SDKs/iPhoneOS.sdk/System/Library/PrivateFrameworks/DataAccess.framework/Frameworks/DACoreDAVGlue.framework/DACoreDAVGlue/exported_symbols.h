@@ -1,0 +1,24 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/DataAccess.framework/Frameworks/DACoreDAVGlue.framework/DACoreDAVGlue (for architecture armv7):
+_OBJC_CLASS_$_DACoreDAVLogger
+_OBJC_CLASS_$_DACoreDAVTaskManager
+_OBJC_IVAR_$_DACoreDAVTaskManager._applicationsShowingActivity
+_OBJC_METACLASS_$_DACoreDAVLogger
+_OBJC_METACLASS_$_DACoreDAVTaskManager
+_coreDAVValidationErrorFromRawError
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/DataAccess.framework/Frameworks/DACoreDAVGlue.framework/DACoreDAVGlue (for architecture armv7s):
+_OBJC_CLASS_$_DACoreDAVLogger
+_OBJC_CLASS_$_DACoreDAVTaskManager
+_OBJC_IVAR_$_DACoreDAVTaskManager._applicationsShowingActivity
+_OBJC_METACLASS_$_DACoreDAVLogger
+_OBJC_METACLASS_$_DACoreDAVTaskManager
+_coreDAVValidationErrorFromRawError
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/DataAccess.framework/Frameworks/DACoreDAVGlue.framework/DACoreDAVGlue (for architecture arm64):
+_OBJC_CLASS_$_DACoreDAVLogger
+_OBJC_CLASS_$_DACoreDAVTaskManager
+_OBJC_IVAR_$_DACoreDAVTaskManager._applicationsShowingActivity
+_OBJC_METACLASS_$_DACoreDAVLogger
+_OBJC_METACLASS_$_DACoreDAVTaskManager
+_coreDAVValidationErrorFromRawError

@@ -1,0 +1,6 @@
+_NSExceptionHandlerResume
+_NSStackTraceKey
+_NSUncaughtRuntimeErrorException
+_NSUncaughtSystemExceptionException
+_OBJC_CLASS_$_NSExceptionHandler
+_OBJC_METACLASS_$_NSExceptionHandler

@@ -1,0 +1,2 @@
+_GSFontCacheGetData
+_GSFontCacheGetDictionary

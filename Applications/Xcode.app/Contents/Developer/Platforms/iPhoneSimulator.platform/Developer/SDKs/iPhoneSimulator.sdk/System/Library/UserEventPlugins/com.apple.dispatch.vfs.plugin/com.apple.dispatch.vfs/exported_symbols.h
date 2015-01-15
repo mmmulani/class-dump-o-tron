@@ -1,0 +1,3 @@
+_com_apple_dispatch_vfsVersionNumber
+_com_apple_dispatch_vfsVersionString
+_init_dispatch_vfs

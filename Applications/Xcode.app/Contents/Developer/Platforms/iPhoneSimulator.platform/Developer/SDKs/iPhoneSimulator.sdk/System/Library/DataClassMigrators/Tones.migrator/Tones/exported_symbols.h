@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_ToneDataMigrator
+_OBJC_METACLASS_$_ToneDataMigrator

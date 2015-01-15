@@ -1,0 +1,13 @@
+_OBJC_CLASS_$_DockExtra
+_OBJC_CLASS_$_NSMenuExtra
+_OBJC_CLASS_$_NSMenuExtraAnimationView
+_OBJC_CLASS_$_NSMenuExtraView
+_OBJC_IVAR_$_DockExtra._private
+_OBJC_IVAR_$_NSMenuExtraView._alternateImage
+_OBJC_IVAR_$_NSMenuExtraView._image
+_OBJC_IVAR_$_NSMenuExtraView._menu
+_OBJC_IVAR_$_NSMenuExtraView._menuExtra
+_OBJC_METACLASS_$_DockExtra
+_OBJC_METACLASS_$_NSMenuExtra
+_OBJC_METACLASS_$_NSMenuExtraAnimationView
+_OBJC_METACLASS_$_NSMenuExtraView

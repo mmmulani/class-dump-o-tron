@@ -1,0 +1,4 @@
+_AXAXElementInteractionVersionNumber
+_AXAXElementInteractionVersionString
+_OBJC_CLASS_$_AXElementInteractionManager
+_OBJC_METACLASS_$_AXElementInteractionManager

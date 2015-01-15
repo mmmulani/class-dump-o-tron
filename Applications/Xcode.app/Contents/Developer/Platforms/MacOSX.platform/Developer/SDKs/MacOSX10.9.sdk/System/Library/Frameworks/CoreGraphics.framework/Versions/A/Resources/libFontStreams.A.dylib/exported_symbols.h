@@ -1,0 +1,7 @@
+_cff_font_create_with_data
+_cff_font_is_cid
+_cff_font_release
+_ttf_create
+_ttf_create_subset_data
+_ttf_create_subset_data_with_callbacks
+_ttf_release

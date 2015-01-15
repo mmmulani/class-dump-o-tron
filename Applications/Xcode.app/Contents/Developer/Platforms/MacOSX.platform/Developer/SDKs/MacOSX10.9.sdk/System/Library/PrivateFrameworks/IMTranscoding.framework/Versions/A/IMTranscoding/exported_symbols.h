@@ -1,0 +1,4 @@
+_IMTranscodeContextResponseDuration
+_IMTranscodeErrorDomain
+_OBJC_CLASS_$_IMTranscodeController
+_OBJC_METACLASS_$_IMTranscodeController

@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_CalendarTapToRadarExtension
+_OBJC_METACLASS_$_CalendarTapToRadarExtension
+__mh_execute_header

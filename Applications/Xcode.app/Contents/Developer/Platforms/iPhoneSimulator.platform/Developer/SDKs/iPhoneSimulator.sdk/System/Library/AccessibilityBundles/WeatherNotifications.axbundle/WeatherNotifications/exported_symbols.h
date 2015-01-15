@@ -1,0 +1,5 @@
+_MaxIconIndex
+_MoonIconIndex
+_MoonWithCloudsIndex
+_OBJC_CLASS_$_AXWeatherNotificationsGlue
+_OBJC_METACLASS_$_AXWeatherNotificationsGlue

@@ -1,0 +1,2 @@
+_NSScriptingVersionNumber
+_NSScriptingVersionString

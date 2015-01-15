@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_TIKeyboardInputManager_chr
+_OBJC_METACLASS_$_TIKeyboardInputManager_chr

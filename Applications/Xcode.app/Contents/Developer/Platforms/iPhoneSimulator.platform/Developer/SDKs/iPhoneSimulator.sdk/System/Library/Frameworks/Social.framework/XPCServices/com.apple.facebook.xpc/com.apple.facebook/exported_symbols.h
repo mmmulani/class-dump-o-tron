@@ -1,0 +1,15 @@
+_FBDGuaranteedRequestMethodKey
+_FBDGuaranteedRequestParametersKey
+_FBDGuaranteedRequestURLKey
+_FBDPostUploadPowerAssertionTimeout
+_OBJC_CLASS_$_FBDGuaranteedRequest
+_OBJC_CLASS_$_FBDPostUpload
+_OBJC_CLASS_$_FBDPostUploadPart
+_OBJC_CLASS_$_FBDSession
+_OBJC_METACLASS_$_FBDGuaranteedRequest
+_OBJC_METACLASS_$_FBDPostUpload
+_OBJC_METACLASS_$_FBDPostUploadPart
+_OBJC_METACLASS_$_FBDSession
+__FBDRegisterWithBackgroundTaskAgent
+__mh_execute_header
+_main

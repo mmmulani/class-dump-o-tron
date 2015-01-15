@@ -1,0 +1,3 @@
+_JavaFrameViewDidCreateJavaFrame
+_OBJC_CLASS_$_JavaFrameView
+_OBJC_METACLASS_$_JavaFrameView

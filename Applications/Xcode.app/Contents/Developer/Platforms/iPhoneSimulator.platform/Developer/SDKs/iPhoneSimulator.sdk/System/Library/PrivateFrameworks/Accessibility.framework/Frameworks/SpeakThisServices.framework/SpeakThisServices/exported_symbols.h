@@ -1,0 +1,5 @@
+_OBJC_CLASS_$_SpeakThisServices
+_OBJC_METACLASS_$_SpeakThisServices
+_STSErrorDomain
+_STSMessageKeyOptions
+_STSMessageReplyKeyErrorCode

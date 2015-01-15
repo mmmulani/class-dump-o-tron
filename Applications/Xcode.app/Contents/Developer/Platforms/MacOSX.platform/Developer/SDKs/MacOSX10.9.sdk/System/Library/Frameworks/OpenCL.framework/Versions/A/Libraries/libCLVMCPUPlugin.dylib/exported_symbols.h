@@ -1,0 +1,3 @@
+_cvmsPluginElementBuild
+_cvmsPluginServiceInitialize
+_cvmsPluginServiceTerminate

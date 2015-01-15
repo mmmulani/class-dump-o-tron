@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_CalendarDataMigrator
+_OBJC_METACLASS_$_CalendarDataMigrator
+_kCalCalendarClass
+_kCalWeakCalendarMethods

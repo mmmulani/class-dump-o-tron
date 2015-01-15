@@ -1,0 +1,3 @@
+_ISAppleIDLoginErrorDomain
+_OBJC_CLASS_$_ISAppleIDLoginPlugin
+_OBJC_METACLASS_$_ISAppleIDLoginPlugin

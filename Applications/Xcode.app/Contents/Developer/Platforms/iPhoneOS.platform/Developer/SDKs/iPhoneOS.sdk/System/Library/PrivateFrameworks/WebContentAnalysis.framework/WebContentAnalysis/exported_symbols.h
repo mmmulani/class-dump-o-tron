@@ -1,0 +1,39 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/WebContentAnalysis.framework/WebContentAnalysis (for architecture armv7):
+_OBJC_CLASS_$_WFUserSettings
+_OBJC_CLASS_$_WebFilterEvaluator
+_OBJC_IVAR_$_WebFilterEvaluator._buffer
+_OBJC_IVAR_$_WebFilterEvaluator._filterState
+_OBJC_IVAR_$_WebFilterEvaluator._pageTitle
+_OBJC_IVAR_$_WebFilterEvaluator._url
+_OBJC_METACLASS_$_WFUserSettings
+_OBJC_METACLASS_$_WebFilterEvaluator
+_WFUserWhiteListAllowedSitesAddress
+_WFUserWhiteListAllowedSitesBookmarkPath
+_WFUserWhiteListAllowedSitesPageTitle
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/WebContentAnalysis.framework/WebContentAnalysis (for architecture armv7s):
+_OBJC_CLASS_$_WFUserSettings
+_OBJC_CLASS_$_WebFilterEvaluator
+_OBJC_IVAR_$_WebFilterEvaluator._buffer
+_OBJC_IVAR_$_WebFilterEvaluator._filterState
+_OBJC_IVAR_$_WebFilterEvaluator._pageTitle
+_OBJC_IVAR_$_WebFilterEvaluator._url
+_OBJC_METACLASS_$_WFUserSettings
+_OBJC_METACLASS_$_WebFilterEvaluator
+_WFUserWhiteListAllowedSitesAddress
+_WFUserWhiteListAllowedSitesBookmarkPath
+_WFUserWhiteListAllowedSitesPageTitle
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/WebContentAnalysis.framework/WebContentAnalysis (for architecture arm64):
+_OBJC_CLASS_$_WFUserSettings
+_OBJC_CLASS_$_WebFilterEvaluator
+_OBJC_IVAR_$_WebFilterEvaluator._buffer
+_OBJC_IVAR_$_WebFilterEvaluator._filterState
+_OBJC_IVAR_$_WebFilterEvaluator._pageTitle
+_OBJC_IVAR_$_WebFilterEvaluator._url
+_OBJC_METACLASS_$_WFUserSettings
+_OBJC_METACLASS_$_WebFilterEvaluator
+_WFUserWhiteListAllowedSitesAddress
+_WFUserWhiteListAllowedSitesBookmarkPath
+_WFUserWhiteListAllowedSitesPageTitle

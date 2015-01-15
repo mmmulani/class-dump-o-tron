@@ -1,0 +1,20 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/AppleVXD390Framework.framework/AppleVXD390Framework (for architecture armv7):
+_AppleVXD390CheckPlatform
+_AppleVXD390CloseConnection
+_AppleVXD390DecodeFrame
+_AppleVXD390GetParameter
+_AppleVXD390InitializeDecoder
+_AppleVXD390OpenConnection
+_AppleVXD390SetParameter
+_AppleVXD390TerminateDecoder
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/AppleVXD390Framework.framework/AppleVXD390Framework (for architecture armv7s):
+_AppleVXD390CheckPlatform
+_AppleVXD390CloseConnection
+_AppleVXD390DecodeFrame
+_AppleVXD390GetParameter
+_AppleVXD390InitializeDecoder
+_AppleVXD390OpenConnection
+_AppleVXD390SetParameter
+_AppleVXD390TerminateDecoder

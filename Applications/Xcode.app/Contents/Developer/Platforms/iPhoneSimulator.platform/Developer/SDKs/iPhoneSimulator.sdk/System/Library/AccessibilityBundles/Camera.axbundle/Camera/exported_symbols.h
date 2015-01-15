@@ -1,0 +1,8 @@
+_OBJC_CLASS_$_AXCameraGlue
+_OBJC_CLASS_$_CAMApplicationAccessibility
+_OBJC_CLASS_$___CAMApplicationAccessibility_super
+_OBJC_METACLASS_$_AXCameraGlue
+_OBJC_METACLASS_$_CAMApplicationAccessibility
+_OBJC_METACLASS_$___CAMApplicationAccessibility_super
+__Failover
+_accessibilityLocalizedString

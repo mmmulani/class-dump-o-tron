@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_AppleAccountMigrator
+_OBJC_METACLASS_$_AppleAccountMigrator
+__primaryAccount
+__store

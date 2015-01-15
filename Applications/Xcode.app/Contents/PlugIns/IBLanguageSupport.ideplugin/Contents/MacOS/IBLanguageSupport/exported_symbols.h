@@ -1,0 +1,4 @@
+_IBLanguageSupportVersionNumber
+_IBLanguageSupportVersionString
+_OBJC_CLASS_$_IDEIBSwiftSourceCodeSymbolFormatter
+_OBJC_METACLASS_$_IDEIBSwiftSourceCodeSymbolFormatter

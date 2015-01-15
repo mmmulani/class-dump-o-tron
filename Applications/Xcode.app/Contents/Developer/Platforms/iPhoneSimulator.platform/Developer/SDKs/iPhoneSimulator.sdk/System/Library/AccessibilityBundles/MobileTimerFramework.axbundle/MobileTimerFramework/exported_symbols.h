@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_AXTimerFrameworkGlue
+_OBJC_METACLASS_$_AXTimerFrameworkGlue
+__Failover

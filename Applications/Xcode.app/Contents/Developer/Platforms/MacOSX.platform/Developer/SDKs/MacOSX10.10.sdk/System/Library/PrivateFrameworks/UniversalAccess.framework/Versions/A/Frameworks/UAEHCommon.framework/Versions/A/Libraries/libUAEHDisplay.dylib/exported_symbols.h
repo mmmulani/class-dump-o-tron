@@ -1,0 +1,12 @@
+_OBJC_CLASS_$_UAEHDisplayEnhancementDriver
+_OBJC_METACLASS_$_UAEHDisplayEnhancementDriver
+_UADEventHandlerGetVtable
+__DisplayEnhancementDriver
+_handleEvent
+_handleMessage
+_initialize
+_libraryWillUnload
+_safeToQuit
+_shouldSnarfEvent
+_updateSettings
+_userSessionDidChange

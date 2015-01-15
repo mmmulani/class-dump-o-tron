@@ -1,0 +1,10 @@
+___gt_mutex
+_btrie_build
+_btrie_close
+_btrie_common_prefix_search
+_btrie_data
+_btrie_exact_match_search
+_btrie_open
+_btrie_prefix_match_search
+_btrie_wildcard_match_search
+_germantok_tokenize

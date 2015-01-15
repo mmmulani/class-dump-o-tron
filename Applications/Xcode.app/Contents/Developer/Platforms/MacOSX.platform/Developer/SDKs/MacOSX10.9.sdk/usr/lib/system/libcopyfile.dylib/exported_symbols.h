@@ -1,0 +1,11 @@
+__PreserveEA
+___copyfileVersionNumber
+___copyfileVersionString
+__xattrNameWithProperties
+__xattrPropertiesFromName
+_copyfile
+_copyfile_state_alloc
+_copyfile_state_free
+_copyfile_state_get
+_copyfile_state_set
+_fcopyfile

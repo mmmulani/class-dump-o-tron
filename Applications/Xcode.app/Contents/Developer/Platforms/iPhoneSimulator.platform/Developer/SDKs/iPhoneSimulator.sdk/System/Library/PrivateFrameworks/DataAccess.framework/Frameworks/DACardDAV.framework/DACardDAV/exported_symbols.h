@@ -1,0 +1,6 @@
+_OBJC_CLASS_$_CardDAVAccount
+_OBJC_CLASS_$_CardDAVLocalDBHelper
+_OBJC_CLASS_$_CardDAVPropertiesHelper
+_OBJC_METACLASS_$_CardDAVAccount
+_OBJC_METACLASS_$_CardDAVLocalDBHelper
+_OBJC_METACLASS_$_CardDAVPropertiesHelper

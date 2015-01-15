@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_SLDataMigrator
+_OBJC_METACLASS_$_SLDataMigrator

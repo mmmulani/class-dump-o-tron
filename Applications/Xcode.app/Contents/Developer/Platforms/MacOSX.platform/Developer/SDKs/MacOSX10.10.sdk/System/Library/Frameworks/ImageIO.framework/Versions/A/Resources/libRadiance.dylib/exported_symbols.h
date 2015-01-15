@@ -1,0 +1,4 @@
+__cg_RadReadRGBFloat
+__cg_RadReadRGBSize
+__cg_RadReadRGBUInt16
+__cg_RadWriteRGB

@@ -1,0 +1,15 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/ThermalMonitorExporter.framework/ThermalMonitorExporter (for architecture armv7):
+_ThermalMonitorExporterReadValue
+_ThermalMonitorExporterVersionNumber
+_ThermalMonitorExporterVersionString
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/ThermalMonitorExporter.framework/ThermalMonitorExporter (for architecture armv7s):
+_ThermalMonitorExporterReadValue
+_ThermalMonitorExporterVersionNumber
+_ThermalMonitorExporterVersionString
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/ThermalMonitorExporter.framework/ThermalMonitorExporter (for architecture arm64):
+_ThermalMonitorExporterReadValue
+_ThermalMonitorExporterVersionNumber
+_ThermalMonitorExporterVersionString

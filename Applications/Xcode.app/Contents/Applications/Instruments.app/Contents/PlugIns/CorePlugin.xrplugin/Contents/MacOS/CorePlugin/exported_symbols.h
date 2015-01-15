@@ -1,0 +1,4 @@
+_PFTCorePluginVersionNumber
+_PFTCorePluginVersionString
+_XRMessageTracerInstrumentStart
+_XRMessageTracerNewDocumentFrom

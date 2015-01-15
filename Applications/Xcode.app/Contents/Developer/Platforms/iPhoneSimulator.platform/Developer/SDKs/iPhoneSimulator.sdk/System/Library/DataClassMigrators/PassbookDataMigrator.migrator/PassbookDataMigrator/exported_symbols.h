@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_PassbookDataMigrator
+_OBJC_METACLASS_$_PassbookDataMigrator

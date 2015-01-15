@@ -1,0 +1,2 @@
+_Core_DataVersionNumber
+_Core_DataVersionString

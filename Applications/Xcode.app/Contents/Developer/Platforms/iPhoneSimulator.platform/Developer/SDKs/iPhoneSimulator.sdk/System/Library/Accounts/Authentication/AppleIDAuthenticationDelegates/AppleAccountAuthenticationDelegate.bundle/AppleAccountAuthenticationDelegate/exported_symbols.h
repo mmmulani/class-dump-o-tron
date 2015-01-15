@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_AppleAccountAuthenticationDelegate
+_OBJC_METACLASS_$_AppleAccountAuthenticationDelegate

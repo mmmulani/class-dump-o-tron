@@ -1,0 +1,16 @@
+_LQCachePort
+_LQForceQuit
+_LQNotifyCpuResource
+_LQNotifyFacelessQuitHappening
+_LQNotifyQuitLikely
+_LQNotifySpinLikely
+_LQNotifyStuckApp
+_LQNotifyUiQuitHappening
+_LQNotifyUnstuckApp
+_LQNotifyWakeupsResource
+_LQReportCpuResource
+_LQReportPotentialHang
+_LQReportPotentialSpin
+_LQReportStuckApp
+_LQReportUnstuckApp
+_LQReportWakeupsResource

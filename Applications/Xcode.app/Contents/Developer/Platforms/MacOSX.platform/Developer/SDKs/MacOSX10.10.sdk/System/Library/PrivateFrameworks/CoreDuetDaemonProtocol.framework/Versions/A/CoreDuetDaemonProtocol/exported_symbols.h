@@ -1,0 +1,15 @@
+_CDDSetError
+_OBJC_CLASS_$_CDDClientConnection
+_OBJC_CLASS_$_CDDHistoryWindow
+_OBJC_CLASS_$_CDDPluginConnection
+_OBJC_CLASS_$_CDDPluginResponder
+_OBJC_CLASS_$_CDDServerResponder
+_OBJC_CLASS_$_CDDXPCConnection
+_OBJC_CLASS_$_CDPClientConnection
+_OBJC_METACLASS_$_CDDClientConnection
+_OBJC_METACLASS_$_CDDHistoryWindow
+_OBJC_METACLASS_$_CDDPluginConnection
+_OBJC_METACLASS_$_CDDPluginResponder
+_OBJC_METACLASS_$_CDDServerResponder
+_OBJC_METACLASS_$_CDDXPCConnection
+_OBJC_METACLASS_$_CDPClientConnection

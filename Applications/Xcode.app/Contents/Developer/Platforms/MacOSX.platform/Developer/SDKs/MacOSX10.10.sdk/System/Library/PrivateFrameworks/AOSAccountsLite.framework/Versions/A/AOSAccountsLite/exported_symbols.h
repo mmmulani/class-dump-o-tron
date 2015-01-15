@@ -1,0 +1,14 @@
+_AOSAccountsLiteVersionNumber
+_AOSAccountsLiteVersionString
+_MMLAccountCopyProperty
+_MMLAccountIsVetted
+_MMLAccountLogin
+_MMLCopyLoggedInAccount
+_MMLCopyMailActivationInfo
+_MMLServiceCopyProperty
+_OBJC_CLASS_$_AOSAccountLite
+_OBJC_METACLASS_$_AOSAccountLite
+__copyBagAccountProperty
+__copyBagServiceProperty
+__getBag
+__useFullAOSAccounts

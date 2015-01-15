@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_MessageAccountsMigrator
+_OBJC_METACLASS_$_MessageAccountsMigrator

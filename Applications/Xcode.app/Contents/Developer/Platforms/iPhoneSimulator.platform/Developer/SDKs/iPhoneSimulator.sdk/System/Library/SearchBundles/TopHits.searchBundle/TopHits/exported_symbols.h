@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_SPTopHitsDatastore
+_OBJC_METACLASS_$_SPTopHitsDatastore

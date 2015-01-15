@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_AOSMigrator
+_OBJC_METACLASS_$_AOSMigrator

@@ -1,0 +1,6 @@
+_JVM_begin_signal_setting
+_JVM_end_signal_setting
+_JVM_get_signal_action
+_sigaction
+_signal
+_sigset

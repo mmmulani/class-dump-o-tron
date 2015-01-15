@@ -1,0 +1,5 @@
+_GetRawPluginsInfo
+_RCCopyMethodsArrayForIdentifier
+_readCIFFProps
+_readMakerNoteProps
+_readRawTiffProps

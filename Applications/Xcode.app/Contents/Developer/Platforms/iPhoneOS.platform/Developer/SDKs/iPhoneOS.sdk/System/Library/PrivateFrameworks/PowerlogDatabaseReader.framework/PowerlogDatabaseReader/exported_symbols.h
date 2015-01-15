@@ -1,0 +1,18 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/PowerlogDatabaseReader.framework/PowerlogDatabaseReader (for architecture armv7):
+_OBJC_CLASS_$_PLDatabaseReader
+_OBJC_METACLASS_$_PLDatabaseReader
+_PowerlogDatabaseReaderVersionNumber
+_PowerlogDatabaseReaderVersionString
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/PowerlogDatabaseReader.framework/PowerlogDatabaseReader (for architecture armv7s):
+_OBJC_CLASS_$_PLDatabaseReader
+_OBJC_METACLASS_$_PLDatabaseReader
+_PowerlogDatabaseReaderVersionNumber
+_PowerlogDatabaseReaderVersionString
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/PowerlogDatabaseReader.framework/PowerlogDatabaseReader (for architecture arm64):
+_OBJC_CLASS_$_PLDatabaseReader
+_OBJC_METACLASS_$_PLDatabaseReader
+_PowerlogDatabaseReaderVersionNumber
+_PowerlogDatabaseReaderVersionString

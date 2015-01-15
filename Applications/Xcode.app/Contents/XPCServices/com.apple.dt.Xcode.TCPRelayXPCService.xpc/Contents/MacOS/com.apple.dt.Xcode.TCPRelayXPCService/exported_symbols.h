@@ -1,0 +1,4 @@
+__mh_execute_header
+_com_apple_dt_Xcode_TCPRelayXPCServiceVersionNumber
+_com_apple_dt_Xcode_TCPRelayXPCServiceVersionString
+_main

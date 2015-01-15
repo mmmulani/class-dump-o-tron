@@ -1,0 +1,2 @@
+__MGSCopyLocalizedString
+__MGSSetLazyFuncs

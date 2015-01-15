@@ -1,0 +1,5 @@
+_CPLoggingForThreadInfoActionEnabled
+_CPLoggingThreadInfoActionFacilityName
+_CoreProfileThreadInfoActionBundleVersionNumber
+_CoreProfileThreadInfoActionBundleVersionString
+_actionMethods

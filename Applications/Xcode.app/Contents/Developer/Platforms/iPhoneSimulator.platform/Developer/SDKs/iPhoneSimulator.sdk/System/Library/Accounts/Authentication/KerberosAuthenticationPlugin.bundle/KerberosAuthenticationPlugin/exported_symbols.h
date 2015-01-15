@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_KerberosAuthenticationPlugin
+_OBJC_METACLASS_$_KerberosAuthenticationPlugin

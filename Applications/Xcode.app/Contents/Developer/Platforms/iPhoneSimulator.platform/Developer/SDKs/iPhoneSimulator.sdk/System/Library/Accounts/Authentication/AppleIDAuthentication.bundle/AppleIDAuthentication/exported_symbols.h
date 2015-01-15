@@ -1,0 +1,16 @@
+_OBJC_CLASS_$_AppleIDAuthenticationPlugin
+_OBJC_CLASS_$_AppleIDTokenMigrator
+_OBJC_METACLASS_$_AppleIDAuthenticationPlugin
+_OBJC_METACLASS_$_AppleIDTokenMigrator
+_authAttempts
+_authRetries
+_kAppleIDDSID
+_kAppleIDDelegateEnvironments
+_kAppleIDDelegateHintsKey
+_kAppleIDFMIPBundleID
+_kAppleIDGamecenterBundleID
+_kAppleIDIdentityServicesBundleID
+_kAppleIDPlayerID
+_kAppleIDProfileID
+_kAppleIDSelfHandle
+_kAppleIDiCloudBundleID

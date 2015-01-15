@@ -1,0 +1,4 @@
+__Z11usageAndDiei
+__mh_execute_header
+_dh
+_main

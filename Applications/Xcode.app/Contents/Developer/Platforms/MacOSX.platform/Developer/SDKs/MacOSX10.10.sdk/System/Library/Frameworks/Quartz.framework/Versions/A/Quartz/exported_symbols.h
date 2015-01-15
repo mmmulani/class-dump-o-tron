@@ -1,0 +1,2 @@
+_QuartzVersionNumber
+_QuartzVersionString

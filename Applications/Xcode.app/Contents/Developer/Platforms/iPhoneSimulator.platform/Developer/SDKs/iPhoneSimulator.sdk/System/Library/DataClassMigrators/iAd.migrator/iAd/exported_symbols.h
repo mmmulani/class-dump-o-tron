@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_iAdDataMigrator
+_OBJC_METACLASS_$_iAdDataMigrator

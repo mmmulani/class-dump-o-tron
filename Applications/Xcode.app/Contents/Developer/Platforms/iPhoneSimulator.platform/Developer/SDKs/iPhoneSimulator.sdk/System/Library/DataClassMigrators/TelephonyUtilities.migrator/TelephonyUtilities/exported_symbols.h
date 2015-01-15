@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_TUDataMigrator
+_OBJC_METACLASS_$_TUDataMigrator

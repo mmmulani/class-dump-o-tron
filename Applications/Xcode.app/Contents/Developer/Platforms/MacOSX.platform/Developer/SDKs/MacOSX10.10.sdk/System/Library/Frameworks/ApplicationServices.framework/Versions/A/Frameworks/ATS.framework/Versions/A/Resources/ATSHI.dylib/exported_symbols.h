@@ -1,0 +1,2 @@
+_ATSCopyAutoActivationConfirmDialogResult
+_ATSIsApplicationReadyForAutoFontActivation

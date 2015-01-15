@@ -1,0 +1,6 @@
+_OBJC_CLASS_$_DYMTLShaderProfiler
+_OBJC_CLASS_$_DYMTLShaderProfilerResult
+_OBJC_CLASS_$_DYMTLShaderProfilerShaderInfo
+_OBJC_METACLASS_$_DYMTLShaderProfiler
+_OBJC_METACLASS_$_DYMTLShaderProfilerResult
+_OBJC_METACLASS_$_DYMTLShaderProfilerShaderInfo

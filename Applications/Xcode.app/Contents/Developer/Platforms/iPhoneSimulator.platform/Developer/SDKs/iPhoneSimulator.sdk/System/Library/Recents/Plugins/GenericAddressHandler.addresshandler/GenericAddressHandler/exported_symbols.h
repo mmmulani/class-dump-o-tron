@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_CRGenericAddressHandler
+_OBJC_METACLASS_$_CRGenericAddressHandler

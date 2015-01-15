@@ -1,0 +1,5 @@
+_BiometricKitError
+_OBJC_CLASS_$_BiometricKitUI
+_OBJC_CLASS_$_BiometricKitUIEnrollViewController
+_OBJC_METACLASS_$_BiometricKitUI
+_OBJC_METACLASS_$_BiometricKitUIEnrollViewController

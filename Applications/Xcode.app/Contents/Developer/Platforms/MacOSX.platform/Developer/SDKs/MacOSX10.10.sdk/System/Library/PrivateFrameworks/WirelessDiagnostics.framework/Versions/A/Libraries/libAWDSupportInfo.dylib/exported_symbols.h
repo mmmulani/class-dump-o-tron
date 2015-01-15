@@ -1,0 +1,9 @@
+__ZN3awd10MetricBaseD0Ev
+__ZN3awd10MetricBaseD1Ev
+__ZN3awd10MetricBaseD2Ev
+__ZN3awd14sGetMetricTypeEj
+__ZN3awd19sGetGenericMetricIdEv
+__ZN3awd23getComponentForMetricIdEj
+__ZTIN3awd10MetricBaseE
+__ZTSN3awd10MetricBaseE
+__ZTVN3awd10MetricBaseE

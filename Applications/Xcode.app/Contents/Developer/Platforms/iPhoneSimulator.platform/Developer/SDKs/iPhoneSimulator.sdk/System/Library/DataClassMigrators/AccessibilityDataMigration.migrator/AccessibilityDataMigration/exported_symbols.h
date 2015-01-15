@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_AccessibilityDataMigrator
+_OBJC_METACLASS_$_AccessibilityDataMigrator

@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_AAAccountNotificationPlugin
+_OBJC_METACLASS_$_AAAccountNotificationPlugin

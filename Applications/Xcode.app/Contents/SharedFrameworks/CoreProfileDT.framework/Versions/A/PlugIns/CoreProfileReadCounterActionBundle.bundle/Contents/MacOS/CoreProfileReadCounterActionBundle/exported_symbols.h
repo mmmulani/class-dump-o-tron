@@ -1,0 +1,5 @@
+_CPLoggingForReadCounterActionEnabled
+_CPLoggingReadCounterActionFacilityName
+_CoreProfileReadCounterActionBundleVersionNumber
+_CoreProfileReadCounterActionBundleVersionString
+_actionMethods

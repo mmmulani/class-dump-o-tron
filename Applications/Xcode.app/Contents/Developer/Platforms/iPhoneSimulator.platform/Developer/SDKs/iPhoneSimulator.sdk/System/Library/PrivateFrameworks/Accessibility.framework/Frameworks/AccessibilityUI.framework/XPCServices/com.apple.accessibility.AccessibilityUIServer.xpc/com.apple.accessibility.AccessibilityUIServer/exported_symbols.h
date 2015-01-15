@@ -1,0 +1,6 @@
+_OBJC_CLASS_$_AXUIApplication
+_OBJC_CLASS_$_AXUIApplicationDelegate
+_OBJC_METACLASS_$_AXUIApplication
+_OBJC_METACLASS_$_AXUIApplicationDelegate
+__mh_execute_header
+_main

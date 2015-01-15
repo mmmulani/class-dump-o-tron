@@ -1,0 +1,9 @@
+_IndigoHIDMainScreen
+_IndigoHIDStarkScreen
+_IndigoHIDSystemOpenWithCallback
+_IndigoHIDSystemRegisterCallback
+_IndigoHIDSystemSpawnLoopback
+_IndigoTvOutExtendedState
+_IndigoTvOutUniqueId
+_TestSimulatorClientPresent
+__IOHIDSenderIdFromTarget

@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_SYDRemotePreferencesSource
+_OBJC_METACLASS_$_SYDRemotePreferencesSource
+_SYDRemotePreferencesSourceConfigurationDidChangeNotification
+_SYDRemotePreferencesSourceDidChangeNotification

@@ -1,0 +1,2 @@
+_digest_types
+_nif_init

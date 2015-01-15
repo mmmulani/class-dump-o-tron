@@ -1,0 +1,8 @@
+_xcselect_find_developer_contents_from_path
+_xcselect_get_developer_dir_path
+_xcselect_get_manpaths
+_xcselect_invoke_xcrun
+_xcselect_manpaths_free
+_xcselect_manpaths_get_num_paths
+_xcselect_manpaths_get_path
+_xcselect_trigger_install_request

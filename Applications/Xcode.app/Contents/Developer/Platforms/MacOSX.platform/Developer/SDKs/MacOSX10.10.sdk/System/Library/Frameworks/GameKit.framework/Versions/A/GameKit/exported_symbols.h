@@ -1,0 +1,3 @@
+_GKGameKitUmbrellaFrameworkStub
+_kGameKitGameKitVersionNumber
+_kGameKitGameKitVersionString

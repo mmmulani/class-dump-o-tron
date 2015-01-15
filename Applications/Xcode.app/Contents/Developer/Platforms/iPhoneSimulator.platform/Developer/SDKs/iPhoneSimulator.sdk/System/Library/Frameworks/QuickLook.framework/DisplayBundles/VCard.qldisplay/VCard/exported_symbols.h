@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_QLVCardisplayBundle
+_OBJC_IVAR_$_QLVCardisplayBundle._navigationController
+_OBJC_IVAR_$_QLVCardisplayBundle._personViewController
+_OBJC_METACLASS_$_QLVCardisplayBundle

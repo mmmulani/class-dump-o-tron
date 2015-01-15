@@ -1,0 +1,2 @@
+_cg_color_transform_link_symbol
+_cg_color_utils_link_symbol

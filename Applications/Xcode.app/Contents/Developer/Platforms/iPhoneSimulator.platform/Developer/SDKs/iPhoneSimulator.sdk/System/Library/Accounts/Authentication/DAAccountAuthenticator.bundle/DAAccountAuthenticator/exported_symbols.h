@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_DAAccountAuthenticator
+_OBJC_IVAR_$_DAAccountAuthenticator._accountIDToAccount
+_OBJC_IVAR_$_DAAccountAuthenticator._accountIDToVerificationHandler
+_OBJC_METACLASS_$_DAAccountAuthenticator

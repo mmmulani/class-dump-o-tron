@@ -1,0 +1,12 @@
+__mh_execute_header
+_convertToNativePathSeparators
+_main
+_pkg_appendToList
+_pkg_appendUniqueDirToList
+_pkg_countCharList
+_pkg_deleteList
+_pkg_listContains
+_pkg_prependToList
+_pkg_writeCharList
+_pkg_writeCharListWrap
+_progname

@@ -1,0 +1,7 @@
+_DigestLogon
+_NTLMLogon
+_NetLogonChangeTrustPassword
+_NetLogonProbe
+_NetSessionCount
+_NtGenericErrnoStatus
+_NtStatusToString

@@ -1,0 +1,7 @@
+_MRJApplicationMain
+_MRJApplicationMainArgs
+_SetDockInformation
+_launchFromPropertiesList
+_launchJavaApplication
+_launchJavaApplicationWithJVMInfo
+_startJavaApplication

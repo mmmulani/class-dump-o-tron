@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_SYDAccountNotificationObserver
+_OBJC_METACLASS_$_SYDAccountNotificationObserver

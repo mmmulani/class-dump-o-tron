@@ -1,0 +1,12 @@
+_OBJC_CLASS_$_SZExtractor
+_OBJC_CLASS_$_StreamingUnzipper
+_OBJC_METACLASS_$_SZExtractor
+_OBJC_METACLASS_$_StreamingUnzipper
+_SZExtractorActualHashValueErrorKey
+_SZExtractorErrorDomain
+_SZExtractorFileOffsetErrorKey
+_SZExtractorFunctionNameErrorKey
+_SZExtractorHashChunkIndexErrorKey
+_SZExtractorSourceFileLineErrorKey
+_SZExtractorZlibErrorKey
+_gSZVerboseLogging

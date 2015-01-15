@@ -1,0 +1,2 @@
+_IDEBundleInjectionVersionNumber
+_IDEBundleInjectionVersionString

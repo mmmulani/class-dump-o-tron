@@ -1,0 +1,6 @@
+_VerifyClass
+_VerifyClassForMajorVersion
+_VerifyClassname
+_VerifyFixClassname
+_initialize_class_hash
+_opcode_in_out

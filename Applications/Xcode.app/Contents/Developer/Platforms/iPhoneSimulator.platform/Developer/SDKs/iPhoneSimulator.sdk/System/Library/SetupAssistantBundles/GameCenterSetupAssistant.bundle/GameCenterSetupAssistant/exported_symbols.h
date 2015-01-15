@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_GKSetupAssistant
+_OBJC_METACLASS_$_GKSetupAssistant

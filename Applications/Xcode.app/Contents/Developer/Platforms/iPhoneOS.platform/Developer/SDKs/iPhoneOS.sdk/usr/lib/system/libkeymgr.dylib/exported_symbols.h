@@ -1,0 +1,28 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/system/libkeymgr.dylib (for architecture armv7):
+___keymgr_dwarf2_register_sections
+___keymgr_global
+___keymgr_initializer
+__keymgr_get_and_lock_processwide_ptr
+__keymgr_get_and_lock_processwide_ptr_2
+__keymgr_get_lock_count_processwide_ptr
+__keymgr_get_lockmode_processwide_ptr
+__keymgr_set_and_unlock_processwide_ptr
+__keymgr_set_lockmode_processwide_ptr
+__keymgr_unlock_processwide_ptr
+_keymgrVersionNumber
+_keymgrVersionString
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/system/libkeymgr.dylib (for architecture armv7s):
+___keymgr_dwarf2_register_sections
+___keymgr_global
+___keymgr_initializer
+__keymgr_get_and_lock_processwide_ptr
+__keymgr_get_and_lock_processwide_ptr_2
+__keymgr_get_lock_count_processwide_ptr
+__keymgr_get_lockmode_processwide_ptr
+__keymgr_set_and_unlock_processwide_ptr
+__keymgr_set_lockmode_processwide_ptr
+__keymgr_unlock_processwide_ptr
+_keymgrVersionNumber
+_keymgrVersionString

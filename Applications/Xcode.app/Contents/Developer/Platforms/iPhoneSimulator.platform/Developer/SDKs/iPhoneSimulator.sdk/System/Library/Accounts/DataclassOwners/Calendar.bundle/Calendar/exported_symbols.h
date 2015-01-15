@@ -1,0 +1,6 @@
+_OBJC_CLASS_$_EKCalendarDataclassOwner
+_OBJC_CLASS_$_EKEventsDataclassOwner
+_OBJC_CLASS_$_EKRemindersDataclassOwner
+_OBJC_METACLASS_$_EKCalendarDataclassOwner
+_OBJC_METACLASS_$_EKEventsDataclassOwner
+_OBJC_METACLASS_$_EKRemindersDataclassOwner

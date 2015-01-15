@@ -1,0 +1,2 @@
+_MobileCoreTypesVersionNumber
+_MobileCoreTypesVersionString

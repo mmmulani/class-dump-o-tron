@@ -1,0 +1,2 @@
+_WebKitCookieStorageShimInitialize
+_WebKitSecItemShimInitialize

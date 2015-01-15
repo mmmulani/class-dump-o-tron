@@ -1,0 +1,3 @@
+_OBJC_CLASS_$_TIKeyboardInputManager_bo
+_OBJC_IVAR_$_TIKeyboardInputManager_bo._sawHalanta
+_OBJC_METACLASS_$_TIKeyboardInputManager_bo

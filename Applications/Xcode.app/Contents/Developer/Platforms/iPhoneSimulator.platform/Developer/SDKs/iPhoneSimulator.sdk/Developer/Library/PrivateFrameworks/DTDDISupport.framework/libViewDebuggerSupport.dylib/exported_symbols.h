@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_DBGViewDebuggerSupport_iOS
+_OBJC_METACLASS_$_DBGViewDebuggerSupport_iOS

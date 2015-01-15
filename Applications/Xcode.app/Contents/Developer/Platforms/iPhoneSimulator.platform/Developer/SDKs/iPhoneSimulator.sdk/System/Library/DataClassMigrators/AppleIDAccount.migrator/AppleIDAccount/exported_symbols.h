@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_AppleIDAccountMigrator
+_OBJC_METACLASS_$_AppleIDAccountMigrator

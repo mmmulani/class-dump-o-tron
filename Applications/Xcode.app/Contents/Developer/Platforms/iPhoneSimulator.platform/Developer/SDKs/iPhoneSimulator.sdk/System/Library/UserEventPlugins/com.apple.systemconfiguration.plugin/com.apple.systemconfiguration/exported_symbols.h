@@ -1,0 +1,3 @@
+_com_apple_systemconfigurationVersionNumber
+_com_apple_systemconfigurationVersionString
+_init_systemconfiguration

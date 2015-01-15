@@ -1,0 +1,2 @@
+_OBJC_CLASS_$_MessageAccountAuthenticationPlugin
+_OBJC_METACLASS_$_MessageAccountAuthenticationPlugin

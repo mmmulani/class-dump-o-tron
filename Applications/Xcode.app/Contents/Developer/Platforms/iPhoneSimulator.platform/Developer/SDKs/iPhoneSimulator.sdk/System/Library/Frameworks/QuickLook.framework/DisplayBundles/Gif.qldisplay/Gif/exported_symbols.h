@@ -1,0 +1,15 @@
+_CA_NATIVE_FPS
+_OBJC_CLASS_$_QLAnimatedImage
+_OBJC_CLASS_$_QLGIFDisplayBundle
+_OBJC_CLASS_$_QLImageAnimationTimer
+_OBJC_CLASS_$_QLImageData
+_OBJC_IVAR_$_QLGIFDisplayBundle._animatedImage
+_OBJC_IVAR_$_QLGIFDisplayBundle._imageView
+_OBJC_IVAR_$_QLGIFDisplayBundle._running
+_OBJC_IVAR_$_QLGIFDisplayBundle._scaledToFit
+_OBJC_IVAR_$_QLImageData._imageSource
+_OBJC_METACLASS_$_QLAnimatedImage
+_OBJC_METACLASS_$_QLGIFDisplayBundle
+_OBJC_METACLASS_$_QLImageAnimationTimer
+_OBJC_METACLASS_$_QLImageData
+_QLFitSizeWithinSize

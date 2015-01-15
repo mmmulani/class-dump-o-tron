@@ -1,0 +1,10 @@
+_NSGetNextSearchPathEnumeration
+_NSStartSearchPathEnumeration
+___coreservicesVersionNumber
+___coreservicesVersionString
+___dirhelper_create_user_local
+___dirhelper_idle_exit
+___user_local_dirname
+___user_local_mkdir_p
+__dirhelper
+__libcoreservices_fork_child

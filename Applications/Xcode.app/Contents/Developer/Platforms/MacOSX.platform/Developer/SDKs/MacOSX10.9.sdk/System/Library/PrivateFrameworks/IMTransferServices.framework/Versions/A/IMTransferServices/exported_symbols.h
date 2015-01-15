@@ -1,0 +1,3 @@
+_IMTransferServicesErrorDomain
+_OBJC_CLASS_$_IMTransferServicesController
+_OBJC_METACLASS_$_IMTransferServicesController

@@ -1,0 +1,24 @@
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AccessibilityUIUtilities.framework/AccessibilityUIUtilities (for architecture armv7):
+_AXLayoutPriorityIgnored
+_AXResistAllCompressingAndStretching
+_AXUILocalizedStringForKey
+_AXUILocalizedTitleForZoomLensEffect
+_OBJC_CLASS_$_AXUIReachabilityHelper
+_OBJC_METACLASS_$_AXUIReachabilityHelper
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AccessibilityUIUtilities.framework/AccessibilityUIUtilities (for architecture armv7s):
+_AXLayoutPriorityIgnored
+_AXResistAllCompressingAndStretching
+_AXUILocalizedStringForKey
+_AXUILocalizedTitleForZoomLensEffect
+_OBJC_CLASS_$_AXUIReachabilityHelper
+_OBJC_METACLASS_$_AXUIReachabilityHelper
+
+/Applications/Xcode.app//Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AccessibilityUIUtilities.framework/AccessibilityUIUtilities (for architecture arm64):
+_AXLayoutPriorityIgnored
+_AXResistAllCompressingAndStretching
+_AXUILocalizedStringForKey
+_AXUILocalizedTitleForZoomLensEffect
+_OBJC_CLASS_$_AXUIReachabilityHelper
+_OBJC_METACLASS_$_AXUIReachabilityHelper

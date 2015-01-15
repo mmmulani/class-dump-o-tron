@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_LSDatabaseMigrator
+_OBJC_METACLASS_$_LSDatabaseMigrator
+__0LaunchServicesMigratorVersionNumber
+__0LaunchServicesMigratorVersionString

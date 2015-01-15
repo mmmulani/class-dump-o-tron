@@ -1,0 +1,4 @@
+_OBJC_CLASS_$_SPApplicationDatastore
+_OBJC_IVAR_$_SPApplicationDatastore._appLock
+_OBJC_IVAR_$_SPApplicationDatastore._applications
+_OBJC_METACLASS_$_SPApplicationDatastore
